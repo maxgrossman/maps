@@ -1,0 +1,46 @@
+
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.99951299999999,
+               "lng" : 29.002797
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "024d7136f96038f006592ba65412e14cff321a66",
+         "name" : "Quiksilver",
+         "place_id" : "ChIJC6N-FQvHyhQRjykXeoIDgLc",
+         "price_level" : 3,
+         "reference" : "CmRSAAAAIHaHthippIJR2u_fQCQ4TRdaA_2ic9VOUGFVGPPJ0nVf1_sDPGHfwYJ5WWE7_e2iY_ypJtML4Bpt9ghRDISvONyGNgw5frJJoO7eVEFg9LKzXV-fczZNigK1GN7RTy4qEhDr125z2ng9BzmXhHlbTQyoGhRYevZOjoz9sRzAG0UinHVfwpW1iA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Bağdat Cad. No:371"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010585,
+               "lng" : 29.012777
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "22dfc1e639631d915f40a8eba1de393be6c5d639",
+         "name" : "Guess",
+         "place_id" : "ChIJdx5M9Dq4yhQR5xFo2qp3kFs",
+         "reference" : "CmRRAAAAwFVUENTbiEARPSQgj91xAvPjOVuCgfKZS0qtWmgpvGMfKVCVR9Pq9VjCz__q9Ly1m-MgLvGrcCZAC3lTSavId-0fvtv3J_9XF4Gu2W7pbIQhAy5XeFjKd7aVkqduRei2EhCzaB7huC2jueDptgFCoAhnGhQUevPzIsK-ruL5-e67KbduM2RBqQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "shoe_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "İstanbul, Tepe Nautilus Alışveriş Mrk İbrahimağa mah. Dilenç ve pilavcı bayırı sok.no:110, Kadıköy"
+      }
+   ],
+   "status" : "OK"
+}

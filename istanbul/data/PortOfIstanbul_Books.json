@@ -1,0 +1,344 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0238485,
+               "lng" : 28.9757048
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7fb9990174813d202e59c8085d6d708d91b76ef6",
+         "name" : "Bots Elektronik",
+         "place_id" : "ChIJpfxd4ee5yhQRMdkH_8k21qs",
+         "reference" : "CmRSAAAADAdCzAgHk3fKZsImRu_M4HRmRbhYrE7Lb3K32-y_4HWwnvcQsQWIJm1KkiNjWDlUmcOlcHUEAV-wo4e4qbhdUzlPqpBPngl5MmXq6MiGg7oIOyEvSmWIXErWPT9udMD_EhBZiihHWffybeB0qmBjF5IgGhQarxrWi7cGIwFQewcRB3FJUPA0fw",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kemeraltı Cad. Büyük Balıklı Han No:10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.023103,
+               "lng" : 28.9757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0231405,
+                  "lng" : 28.9757876
+               },
+               "southwest" : {
+                  "lat" : 41.0229905,
+                  "lng" : 28.9756708
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4ebc88b6b684a563c78c44598fbb7281da86c6ee",
+         "name" : "Dorukan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9e06ON25yhQRjyljk60tv2w",
+         "reference" : "CmRRAAAAvAEKvAqe2AOz7bT8MADVPhM8dIIc-mRjP9ovuIE0eFztZEmJ4d-5qcLlPnAwxakfM4__c-jeP2vYWEIzBs7lVIIOwla_uO1GKH2eY1On0unCRvVkF9VACm1Km7BXsBrNEhBo7iWLP8oBiawnrYnWhsVjGhRD26tgCd1r9KzRT5lOIkB1hTDfXA",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kemankeş Karamustafa Paşa Mahallesi, İETT Karaköy Durağı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.023653,
+               "lng" : 28.976783
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "da0de1faca958db389b08775871a63fd989ec9bf",
+         "name" : "Karaköy Elektronik",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ878YXd25yhQRv0ECbU4jtNM",
+         "reference" : "CmRSAAAAPD_1eijST_DXmx7jLM42UsMdVb2J1wgrI_dwm8kFQQHrOZWGy8GlZJzK_7T8MGGHigp4SIW1snuNCKEbhyI2lUR889vCZBgyfNSj3xMq-AR0C6DLCuTSufm1fZOYli5oEhAz6xWuzYy9oFmzmxMRaubyGhRQDWf4kKmkHx2YcqYHjo2n8ckOfA",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Necatibey Cd. Gür Han No:34 Kat:2 D:209"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.026264,
+               "lng" : 28.97349699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02629215,
+                  "lng" : 28.97353954999999
+               },
+               "southwest" : {
+                  "lat" : 41.02620915,
+                  "lng" : 28.97341415
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3e2146819ea55515bef1078e6236a0c8074a8fcd",
+         "name" : "REFAH KOLLEKTİF ŞTİ.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1425,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114733681886751325520/photos\"\u003eREFAH KOLLEKTİF ŞTİ.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA2osCGwMrSO9iHhucyX0vrJudTkKy4lSACJxvrxNJSyMO8QNDfaoa1oBfx73XpCTQgGiWJ4luCepGcVshP_z3uZthQqeLL6atqIvcuJxBxSZOo9XFnepd5JN3ZInY-gvyTOFKY78lcbs-UCRdqPAxz4NDy-677QfjYeWpH16uVOEhDBWehIHsTshtqLZfD2NMxGGhSxg_lps1MW65oU_98AejIrODUYmw",
+               "width" : 1424
+            }
+         ],
+         "place_id" : "ChIJdeqgA-e5yhQR0xd6vIVxBp0",
+         "reference" : "CmRSAAAAEnEwFiEtRYUrywS0A5Qt8I0nEwi15kHbnH9D3nF_jIwuH6iycwXTT6Xr8O9cJVYGOJvxkEBsBHCaEFChZ-Ax9hj7cIa2FtRMTezE0mKVJC4BlC6Hp8J0A_1i5mYdNjiqEhDRFcMKJ7RARcs0_T3C4xG8GhSHYQNc8iHJP5JbsU3mhC4UBsGZfg",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Bereketzade Mahallesi, Büyük Hendek Caddesi No:10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.023148,
+               "lng" : 28.972937
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b480e24d1f0f6791c57e5482c7e0079a47253e30",
+         "name" : "VitrA - Artema - Yenigün Yapı",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113926945527781836359/photos\"\u003eVitrA - Artema - Yenigün Yapı\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOqegdfK76Tjn_gCidVHooWZUF9ZWe32kMJMAJLvwN5x1z0btYhVLzbuBz2aKtWc2CfOkcjQxn3hcx-MoVig7w3xj8QEa1-zbOl9O90O4iPRb0huj7MqiQ5_YWtMc_l_va3qmMRamnby1qReGmgIamKW4vTO44p5wyl4IRdI8KIMEhA2vofmrdt6yBsiuTPVdDXeGhQu9lBmb1BSQbfgOKyn9s5BzDQUeQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJc6TMvui5yhQRwLcueLkiqgs",
+         "reference" : "CmRRAAAAbJ7wBXKd0okZFzMOTCuOcaNQHT4vtCWBXtEKmicbmGhanpb4lhLxPlPhvIRJiNY45oIZtie2Ve0j5R2yn2NWqMxwRoygcZVbSZZNVTZdC53rjj7tXUMHvqtYwfMhEMD0EhAvK1Bf8JZ0yfG9Ze4TydcDGhQs_-AnfM9DMYr28gccRnhnWM1HxA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tersane Cad. Hırdavatçılar Çarşısı No:1, Arap Cami"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.02570100000001,
+               "lng" : 28.978832
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e6e02ec3b89a6b211335fab9c08786cf0865e678",
+         "name" : "YILDIZGRUP ELEKTRONİK HİZMETLER VE TİCARET LTD. ŞTİ.",
+         "place_id" : "ChIJE86xy925yhQR_hcN71WJkRE",
+         "reference" : "CmRRAAAARbGWBSSHRSnPhjqOKvqJk9YvwFTbYTdpz8BKx6wOjgKQPoVWxc3vp8HU-14r8gPdeIiCpQIAbTU6v-JGe9N4BRj2LqOIVt4Ag0sxiDpQPtaFTqJZlmjNEsykbZMu6hE6EhDjRt1BnwCTsRCbYKgmrk8QGhQLBNMhUoGkLa0N7CcBaVfQxDH8Vw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shopping_mall",
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "HACIMİMİ MAH.NECATİBEY CAD. NO.95 SA.21, BEYOĞLU"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.022552,
+               "lng" : 28.97594200000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "202459172affb71084c009289ba6805dc737d1af",
+         "name" : "Zenger Elektronik",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 574,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111272079584775845884/photos\"\u003eZenger Elektronik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMADrF9fnVEiz0WLothSinpro2JQc15EWGl4FAVCEytNu-OFINtEBWCqSMLFnfnuzSgNV1gyZSdlN4jHeVOUXXS-De1QeaoW4DSI7ydbtDeGTxjej7KoJe68L8NZZQwIQmhjMq6fOhmQ0c5RtnfmCykGTSeJKEfsBY96f4DkiRjBEhD7101LQAt49qjF2vhwtxWGGhSC5QeB3dUqW4iiMbdif2TZnjXH3Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ8eoYA-i5yhQRzUZFcdIfrBw",
+         "reference" : "CmRRAAAAChgDShVh0W0HtP7I4CWLGc0TJGUO9yAfqHo5R6DdqIfUcMWPSn9L9JhF-jJPdjUvdq-UhYNIgZL79OtXyyAuwTBJJvibNkQ9bZ6JrIiEHPaaZu3En9J-o6l_Imjw2P3LEhAA1sZ9HFA6fbn8-LEMrNq-GhSdO25ucrCwMEdCOczDu8uZ7vjYzQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "electronics_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Erişteci Sok. Abed Han No 7/4 Karaköy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0245048,
+               "lng" : 28.9748523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02458805,
+                  "lng" : 28.9748613
+               },
+               "southwest" : {
+                  "lat" : 41.02446385,
+                  "lng" : 28.9748341
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3bfd778906373fb65ef9e97f6117b8314a70c5e5",
+         "name" : "NeC ELEKTRONİK Hoparlör Tamir Servisi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 286,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109260481116875617354/photos\"\u003eNeC ELEKTRONİK Hoparlör Tamir Servisi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACPVJb95B5T2zFwMb-KCKIWgdOIhowmSsmLcvcUT-WdzrkazRJ_U7rlqS1voibdl3ZPLp4E-ts8hS277CuN_GKOd3kB7BoSyxtzIOWGxwAkIf5wdwgdIYevp4BeqijMlsuQYc1aaqOUuT0xaxGs34tFog5WE15kOv_KU-KwWBnn7EhC2iwpu1mxQ_mzPc0004MlKGhQXjMFJOreSrPDsT9EEW9XR1oTMXw",
+               "width" : 286
+            }
+         ],
+         "place_id" : "ChIJDbLg8-e5yhQRT4jrzjTuYdY",
+         "reference" : "CmRSAAAAKhEeU3Zbep0jY95DDcJE_TePrP45tRMgrB2JA3p688f__5q1eDswr2gyCWy5uQAOfCIuK7EcZ5mJQax4SsiXw9BKdjIfV5oQ5mDwwyMAFn0crZXYx1TUM9x-9IRH16HKEhB6ILdgOS6hxDxiTzCbjjA4GhQRi_LfELEcCL-KMZVzRhYE2jb9BQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "electronics_store",
+            "car_repair",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bereketzade Mahallesi, Yüksek Kaldırım Caddesi No:28"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0243442,
+               "lng" : 28.974924
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4e70277b6156e0732c98fa9364c75373e8f85b5b",
+         "name" : "Atak Elektronik Ltd Şti",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTzXDlOe5yhQRK-K6LNkt1nY",
+         "reference" : "CmRRAAAAKZEHXFcGaTRr_PPTGlqkokphIXtwkUDdowRk-U-syvguQVneCwMCF-SvI9VjFjNRGJmj3-4_6rsJu7jPqH-5HYMP60ke3iQOZdIVPYYaXjk6a0xdJtfKNND2-BtuWHO_EhAfdbzz2L-sPZQY5H915oaCGhRXicHGjfv9AbytVjN01ROg9yWifQ",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Hasanpaşa Mah Lavanta Etap İş Merkezi 16/1, Kadıköy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.02505370000001,
+               "lng" : 28.9783471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02511085,
+                  "lng" : 28.97838144999999
+               },
+               "southwest" : {
+                  "lat" : 41.02503465000001,
+                  "lng" : 28.97824405
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "49fd04770169be40178d32ab10c5a8964a9e22bc",
+         "name" : "Baytekin Teknik Cihazlar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1542,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116211890465405621335/photos\"\u003eBaytekin Teknik Cihazlar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALHN5e8Li31OKad_YAU2ciVHK3sN26z_fICvx3XoPgN-4uQ0-r_GnD3fHhEo2AaEKzA1in832oM3_BRdGf8zKTWaY98JnfaoONxuX_OidufADUhqlpXXs-XLC8bqYPCLEX6utnQ93Zj1zs3VnYdaZXSd5ZBmOJfvfeHpY_f3Rs7uEhCevD0Ipt3KR4LBzOnz4vLzGhSlLkENNP4T7OJGsUxBJn2JLq1uwQ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJbU6kut25yhQR5dd8a9RehHw",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAUb4DYqT_XWfnxZLBUdyHG5_o1eJDETGsjUGFI6KcPpLB2Kf-KoCv5F5GJE6CqsoCSJwrT52wXZgCC47SeCK4OpcQTBh9cmtVihrZAo9LvS2CjsEJ1oakdofgMYA3K7d8EhD4G8p-AU4w38YmoBFdhDyrGhSnqbcuSkgxtDuZQc5p9rxcQbXUTw",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kemankeş Karamustafa Paşa Mahallesi, Necatibey Caddesi No:70"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.02638899999999,
+               "lng" : 28.971542
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c3ef75c37170ac9433205c375ecd750d19fd3516",
+         "name" : "Mervesan Elektronik",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118025248502688690533/photos\"\u003eümit yaşa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALziYAMV3lYJOmva5sAqWbgQFWyA53Q5gWoyyn6U0bv4tm7hfdpl3nuywmagls14VDQ5K76kqlhMc2yXuBRqsjslIIXNL3hyMrVWtWPjrETaFmUd-2RH3pqjdgTI2fmCEvw8eGaYpJ8w3ZLyqTe6fLdzDKvZmcE29K9v97i81hGbEhAojzBnpHLQWwr13rnrSoPuGhTmHvTi55YxHMTwHjKUEQZ0ziJdVQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJw3OEPOa5yhQR3ldrUs2ajvY",
+         "reference" : "CmRSAAAAMpQWIoJqm9fk8vn-Gr1qFyyGyRd-5fPnqSt24V63v-uKrfIl2nkcBaNUhqUES-iBkrXV1MdjQQRzjhTCwmgBwOQsxSyxzyNVNe94IPYmmgh6iLeDDmtgk99x0O9HEQyrEhD9NsHja0V9q7s4MRGlwazAGhRDkXnlip12D9ka-HSGoATvkcAiLA",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Karaköy/istanbul, Bankalar Okçumusa Caddesi, Menevşe İş Merkezi No :22/71"
+      }
+       ],
+   "status" : "OK"
+}
+
+ 

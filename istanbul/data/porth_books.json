@@ -1,0 +1,42 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01069950000001,
+               "lng" : 29.0200834
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1c38d5f16ef1193da05217f3ecc46a2c603d49f5",
+         "name" : "Migros Jet",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104103328652080858985/photos\"\u003eAli Rıza Kökden\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB4jRroLC5AOKSPKpToSbKa1ZX1eJC71h5j4Je6uoWzw1oXh6cMvPoVEVNzrruN2BawmHOX2_R1nYohdE8Ijao1Hg31_EDSF7c7RQMmWxlJDTm8nR3TeAqRguUbsiS1lFLx2dnorBuIYH-sJUH2D9F-U4ejHPh77Qjp0BNnejkGPEhA1BKRUat1rVaf81A-7K1I4GhTECAkPGJ4NfFCdOmTxd452XVsNtA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJA8tusmq4yhQRh68NIXTlQ5o",
+         "reference" : "CmRSAAAAiB5EXlRXw5WhTXRq5K1xtPW0MC23MCkAxo1K5KfPjirWTELnauPnPF5GMOKMNHIrf-_SI1RRh10QNHtW1XICuB6drEYYF2JKab-e3nIgo04-fOeZHnNFGaUW72YQQOJ_EhCpKsvJc-fjAvbdk6Hau7A6GhSQMjEvy1__wN3p1IjVB8GF4kizOg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Selimiye Mah. Tıbbıye Cad. No: 11 D: 1, Üsküdar"
+      }
+   ],
+   "status" : "OK"
+}

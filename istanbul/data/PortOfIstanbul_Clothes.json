@@ -1,0 +1,452 @@
+{
+   "html_attributions" : [],
+   "results" : [
+	{
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0270946,
+               "lng" : 28.974449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02709715,
+                  "lng" : 28.97452209999999
+               },
+               "southwest" : {
+                  "lat" : 41.02709255,
+                  "lng" : 28.97435530000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f98fbdfd7ef23c14d7512d3110562fd058c668db",
+         "name" : "Los Banditos Giyim",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 628,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106189933164061904371/photos\"\u003eLos Banditos Giyim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPus5goO1xLp4M1veiGHcRk24H376A76w1Acl-aGnPfb_uKpyCHfGrchC0XdyGnAIkyZp8HhG76PCn_P0t0ZBwtArvysFNqjHX3NKntwlop6kCi9GX6eCScg8AZwocWDTpbtd-3G7g3S8eTumMclKBfbFpUU1wHwHdu4JGDFSRUmEhAq7ja_6vwRkXX0E2gvr--CGhQ9qym_wJhxjqSF696p_Ghez22vfg",
+               "width" : 629
+            }
+         ],
+         "place_id" : "ChIJp_ABOee5yhQRWZocw-mXNm8",
+         "reference" : "CmRRAAAAbtrKMYf90xQ0Mqig_ANB8HJjbu8F9teuR8XqYdevx4LaYTrxED9hT1IgVdeTM9fbihK3BCjj8dSI8hmK3gkVriCyiyHVJVkhsah3o_Ao-1YBQH3VGoche8bQLpI5YKH7EhBRW7D1GcMsSbUy_7zMN4qrGhQNTXoqHsLfCO4mwTNzymW8pgeN1w",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Şahkulu Mahallesi, Galip Dede Caddesi No:34"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.02581,
+               "lng" : 28.974934
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02581900000001,
+                  "lng" : 28.97505835
+               },
+               "southwest" : {
+                  "lat" : 41.025807,
+                  "lng" : 28.97489215
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f32a9ea7d7b918ccba815c89284621ba16b628f7",
+         "name" : "Aponia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111885881724454459691/photos\"\u003eAponia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGR0S1asr1RZaptF_0z6Vnxtw4lrI7JIiwHlWQeFN0_pK7eqnXQTV8vr6mJhWbpBr2KY3gl-_8aeTtbeOnwGS075QTIala1MMcCst4jhuaHsg4Rjjh1C7EsgZlyczqWG4zfescBUyoS8JNLBebSugdNVxyTuq4F-_JZcBPEK2fe0EhA_Xj2OtE6HQERpFgqAd8kGGhQJn7Z66wwNgNdV3P0c2HSUxXR1DQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJS6oc31-3yhQRzDUhPPU_PEo",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAFdmUEsFvGaJzI2JiWrYEfJXhyottdA1xncLtPcGY-W7_NZjs_7hQ2d-XrgLp648uJZ04RUUo60LeuUZpI7n1wAGc4yPg5Oh-2ERfUr_AyKBU3Vlcl12HKds3cmdCDtDcEhDNHx7KhBbDFlBhVNaDj7qjGhSDwd8IxtN4QfDUtyILArWPb-aNoA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Mueyyedzade Mahallesi, Galip Dede Caddesi No:101A, Galata/Beyoglu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.024868,
+               "lng" : 28.974525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02492710000001,
+                  "lng" : 28.97456735
+               },
+               "southwest" : {
+                  "lat" : 41.02481630000001,
+                  "lng" : 28.97448794999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0ec001da8145d502d7247177b023017d17f03ace",
+         "name" : "KAFT",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 315,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110469384140433225776/photos\"\u003eKAFT\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA7GbRffy8GXoXfnN8YZuW5NyKdx2TpRFkDi7GnBeUOHIiLBC-MtFpIaSboJx3GXCZI43Ll7GuHpupojuZTRaA2eiopOUNpp7CPo3XjiQq4uJIdLPWLc_L_buoiGstwZPavPD42-h7ijVA6Hu811Q494sYztIWyJ1xL41_bApa5-EhBuOATBU63Rd41uHtKpTNPyGhQHdHXCsHEEIw2DBbE8OEffcJJ14Q",
+               "width" : 851
+            }
+         ],
+         "place_id" : "ChIJ0zouGPy2yhQRw3M8O7ljlrU",
+         "reference" : "CmRSAAAAv5KJp0qx6EoRRP3eUiTrfNrp3GmKw2dlLJNd6a-5p-7HAXmsOp3Wn8GpYhMzPLGLt-fMlv5pX_JqomEQ9lJ7La_Di5W0HQIadVtV4pwWL0SRrdUGRrwRhRo99vNFPhyBEhBMRM4VlZ-LNGCMtCfwTUFRGhQY3x5QCOJS_y1QGIe1InesMfC10A",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Bereketzade Mahallesi, Hacıali Sokak, Bahtiyar Apt. 3/2, Galata, Beyoğlu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.026612,
+               "lng" : 28.975132
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02665424999999,
+                  "lng" : 28.9751916
+               },
+               "southwest" : {
+                  "lat" : 41.02657725,
+                  "lng" : 28.97505959999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1b8e827f27f8cf16b48a6c1f30ff151ad93f3028",
+         "name" : "APPAREL Galata",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103943663938988191787/photos\"\u003eAPPAREL Galata\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGk8KVdCIoAGv_8C0G2WTE-UhHDsbBcP2wE_W6addQOL7bUFz7SEiTAVwTvOlZZh26WCthkcDCeicU-xue-tGi1FafwcJ6KoNzH-FYFqYSd2FP8FY_mpwbE-L7g1HETh6-x4kIM3UmXa1XYRj-T6unqQnCQn3hSwnWpXs_rLmpjvEhCfHzWsT4PS6UIfEMZFy3oYGhSa2nzhF7x_kVgS8fW4P-4ykoYckg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJc8MVQue5yhQRNJ6IMqhDy-Q",
+         "reference" : "CmRSAAAAZWONt2ZMZiTUcC6yVqtC6tDMmllCgB3YuhjMdApQvNB0s0iYLD-8k5ffYQ6AYyFDUb1wyiSGC22LA8E53uCPo37Z6ovml-TxUMJsWEJd1RYGf92guF1uz1lQdHWrNMxyEhCA31LjDFUuU4Tr4AQZImTTGhR4AG-rbeJCnXb6h_vR47AJFmZTjQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Şahkulu Mahallesi, Serdar-ı Ekrem Caddesi No:9"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.02700400000001,
+               "lng" : 28.9744323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02701820000001,
+                  "lng" : 28.9745146
+               },
+               "southwest" : {
+                  "lat" : 41.02698939999999,
+                  "lng" : 28.97435219999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "303da23c826790d884f2b1880d603cd55366fc29",
+         "name" : "DogoStore",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106805229837642676827/photos\"\u003eDogoStore\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAO5Wl5gu1yUIKeG9WxRFFnHVUfcbCs0CYBl2l2wfGItDsKxCXLBIJbldXfS5Uqf7ZTnlgD6fu_bEaM1UA4PutkxSLK7c0ZEHA5W4fK8A-888Hk4hsFwbGNjU9UPeVD_FAIujeAGacfU4kQ9IBRD6oF9KdeIY5WKnwYINZXYnVbdOEhAKnqtD3LNqIymPP0Zo7NwxGhRyBBlNeUVLwi0pA1Ax1ApOMvdzkA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJlZbJPue5yhQR8L4oBxcdBEI",
+         "reference" : "CmRRAAAAVu44SUcVPT3SOHZU49Air9Enq8BWIMJt9wSS97qylLLzY4GbiC8YUdWa-8awdz2khAm0-96s7I9gShunOHbkuZmJDMqG59ytYKUhvfPZvPNU6e1_lp3UtWjmLfbZrOkeEhBeQKDnD1N41ne6n8iCQUwkGhTUun_QIb9iITRifSHSOxQKufz1Mw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "clothing_store", "point_of_interest", "establishment" ],
+         "vicinity" : "Şahkulu Mahallesi, No:, Galip Dede Caddesi No:40"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.025152,
+               "lng" : 28.974357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02515875,
+                  "lng" : 28.9744693
+               },
+               "southwest" : {
+                  "lat" : 41.02513734999999,
+                  "lng" : 28.97430489999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d5ac93376008ed7a5c20e0c70e3f9b5dfb3f7dcd",
+         "name" : "Nes Butik",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJufvoo-e5yhQR12G6zJ1aEfA",
+         "reference" : "CmRSAAAAA7A28dBUfb0TGcG6-zdulBoM9g8_7A76vdta5koe6tK5Js8sa5zw80hGji0x3n6hLimkxPjoNQm5vCVoGQtNLZSSRtsU9clWtShiqUPwBjPRpPB2rz-CekNLYyYaggYjEhDFmD2mDcDf7rt6Op24kdH6GhTMpFeFirH6oJ9l1vlGpY6t4sqxDQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bereketzade Mahallesi, Camekan Sokak"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0251108,
+               "lng" : 28.97434119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02569955,
+                  "lng" : 28.9743821
+               },
+               "southwest" : {
+                  "lat" : 41.02491455,
+                  "lng" : 28.9742589
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b3ba53784dde315617bd2bea690b53b93d9ce124",
+         "name" : "PARISTEXAS",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109302774825303005407/photos\"\u003ePARISTEXAS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAItnBRZTwdQ8ybpfOB_VwDs1gCWAKpHTD02eKjKCJtLV1T9LmK96378uRMHDBxFMjL-_SKrKveelt5L7hGvv4_I8SeuJOkdD-IW8f-GSFylDGf8rsEpBJ04zWSvOommK7hZD1yXyI_qTRIOyM0NdCUzcwJ4vqLnrlPgadpE9ztABEhCGZijhGs2sZdJyagbepa5BGhRn3b7-0yp8YCfgJ1_2hiSNa3HEgw",
+               "width" : 1153
+            }
+         ],
+         "place_id" : "ChIJp7CxBue5yhQRbbDC4jC8MzU",
+         "reference" : "CmRRAAAAKmA2IKbsxMkavR5p3Lkeae4mT65opSh8K5ME9VNcobtwQwvgZS6EjJoA9Wv2c51GjQPrifb_3nltzpfpu-KiY9cRfIg5rJ81qgp9eTT6H__yEoBw4S0MQQV-o1os7WdMEhAhrTp2_eCjU7UWEFcf2us2GhT0jC7rCuwBZe5Yf9l1e35s4CWbYA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "store",
+            "shoe_store",
+            "shopping_mall",
+            "clothing_store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Galata Tower, Galata Kulesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.025929,
+               "lng" : 28.978243
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "41e7de00b7f5fe37cfb44111d56086724de4c4c8",
+         "name" : "Sport City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 495,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109388095829729023914/photos\"\u003eSport City\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIwXfDXg3bWyvSMjhlaN-HPOASsHyFYyL9gG254St67loZoBO3--0tCypxJlZ_w41T_UQKSIsNMQ4GAKxrxiBkty2WuvsjjaxX6qKeCj1Epn5nOFTJVNqgNv929ihvZWNpZ87PdVediy7YQVSPMKHXHFn87RKV8xCuKek0K04RkdEhCzRtfvoILBNneD7xSGrEXXGhRpkMCg6NGx5A8-t8ieJiKAKSDTjg",
+               "width" : 990
+            }
+         ],
+         "place_id" : "ChIJ3akKrt65yhQRuHadMYm3qq0",
+         "reference" : "CmRSAAAABOZDsPDsMm4RYHFHc9jNbU_3mAIKJtjskrLV02k3hmj6WskxBOhoIdRH2RakjKJxLzBqh7j4DMeUhREurdgMZ7GYYS9zIvU5qTQ1c2a8Nl4M_LLRctTRafmX5JcONsWCEhB76x8D3pQrIDK0tGJ__3qyGhSD4A5bFwGZpxihcxRFStzzzpVy8Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hacımimi Mah. Kemeraltı Cad. No:27/A Tophane, Beyoğlu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.027032,
+               "lng" : 28.975636
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "04910065adfbc5d6301005249098e9651357632e",
+         "name" : "Arzu Kaprol",
+         "place_id" : "ChIJ2eOOUOe5yhQRcs5jEqz_BWk",
+         "reference" : "CmRRAAAAyM2VXy5zUrNtd97sGd6W9_bzBDfMnRB_d04-8nQyMe_6XT7LL9Ag3HPZ3PTBhQqtDVv1H_YBPWwLQlSEY0pueQjhy3gErbU0vFVth02jzw40wfBoAiD302JQjKgvrazGEhAND_9aF6RBYswTbpZWyW28GhT5wSwCz-u1e8EeC02ml_Fgdbm7Kw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Serdar-ı Ekrem Cad. Kamondo Apt. No:22"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.02599,
+               "lng" : 28.98052100000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02602205,
+                  "lng" : 28.9805545
+               },
+               "southwest" : {
+                  "lat" : 41.02589385,
+                  "lng" : 28.9804413
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "72d4eafc7bbf541c5ee0c26bb393ceaddda5942a",
+         "name" : "Bey Karaköy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113450904470531416999/photos\"\u003eBey Karaköy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGWDAXj6dkNLhk5F0IE_qIvREt7btrlmjJnMEm47JiQ3QBMPq-_xxSen3C6wKfwsQ3tJ_uBu9fGMVdYAPPAj3yXhQSS0edmUtP9i47U2WLXqRKHNOpDbDoMgjUQDmGpkSLNbgHZjIfzHtoeyyPm5gGY79oy_p_XHCrC51-tqD5ipEhBLUWhcwGGwqmg518vExCZrGhSMfppJbGrSGAHSw0O3Y5UKnV9cvw",
+               "width" : 3500
+            }
+         ],
+         "place_id" : "ChIJbZKqGNy5yhQRJtZl0elQXI0",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAv9yJSZCg9q_0PKMV3ij_sweS5GpFJfjnzZi-gp0PKTz8llPl-qecFIbBhVNOyUgPZ0N2gOj0o6yMIvHsx1OSB3RyjrZU5L1iju_mQVjHBlH1ikT4KkGjeZR46QOZjz8DEhBRorGvyPDec19SS37tRsIrGhQnyNd8zT57l1N9f-FDKSi48fd5PA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kemankeş Karamustafa Paşa Mh., Mumhane Caddesi 54/A, Beyoğlu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0259676,
+               "lng" : 28.9782433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0259992,
+                  "lng" : 28.97834394999999
+               },
+               "southwest" : {
+                  "lat" : 41.02587279999999,
+                  "lng" : 28.97820975
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8e5c70eccfb4044d8224b6aa1cde97e15209b389",
+         "name" : "Sport City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115203108896538481845/photos\"\u003eKemal Mertli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACgrFQnhWANxVMsQcb-pOm_7flC2ItYd68Iq84GGJthlJ0gAOiW9bceISV79uDjNHY3ziJAF7_u6TpXjay4D607qIlh6FWDeBP_MGpjldiwqEbwDS8lgSz5xkpfkwi9PmU9ZDeyd5eLzIlNFK48BKfm18RfyeFL8oERw3-3oGx07EhC1TR6XdnKUsqKX8pFIqICXGhQ5LL1v4fsiBMdmvcp-Rl4AzcgZ_w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9XlKFOi5yhQRvzGEMReILyM",
+         "reference" : "CmRRAAAAEC4nbtIpbl77lOgHBoAB-7IIJ4VnLtKmzspAdqLg3PNLqHka3Py_18XyEwgmQ3gFdwCsQMKqfcPEjdZsg8encGsrfm3OYi6HmVmXXu4L5pTy1xIkdgdCoY7OtdcEEjeVEhC3u1XHuC3nP-zwndJYArPcGhRLxopq9rl3AX9X0sGsVnXUna9HEw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Hacımimi Mahallesi, A, Kemeraltı Caddesi No:27"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0263739,
+               "lng" : 28.97501699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.02641409999998,
+                  "lng" : 28.9750771
+               },
+               "southwest" : {
+                  "lat" : 41.02634250000002,
+                  "lng" : 28.9749399
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "47d5063e0440b58a3f62e3e6e42746007a395fcc",
+         "name" : "Section Mode Unique",
+         "place_id" : "ChIJJ7fca-e5yhQRgKxn3ixS_SY",
+         "reference" : "CmRRAAAAxj8aJ5kS4hCriMCiSc85jGNAXgC_HkvVDxlxkMiykrRZGni8VkeNF-dqy3TADSuJHuWk9zhn5S9gBrkCbtKtQrzqzgm7PUa-LjQ-fjpJab2OLWMFYLpMJUjKnu4RhjnJEhBcop2gujKWOJK1hiQnaY0BGhRtXYbP8NWN7Tw3szPj5e1F-2lh4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Müeyyedzade Mahallesi, Serdar-ı Ekrem Caddesi No:10"
+      }
+    ],
+   "status" : "OK"
+}
+
