@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3150",
+               "short_name" : "3150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Knights Road",
+               "short_name" : "Knights Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bensalem",
+               "short_name" : "Bensalem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bensalem Township",
+               "short_name" : "Bensalem Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bucks County",
+               "short_name" : "Bucks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19020",
+               "short_name" : "19020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3150 Knights Rd, Bensalem, PA 19020, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.107216,
+               "lng" : -74.94845699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1085649802915,
+                  "lng" : -74.94710801970848
+               },
+               "southwest" : {
+                  "lat" : 40.1058670197085,
+                  "lng" : -74.94980598029149
+               }
+            }
+         },
+         "place_id" : "ChIJwXp4lz5NwYkR0XLSLg5PHi8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

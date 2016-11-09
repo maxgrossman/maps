@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "590",
+               "short_name" : "590",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Route 38",
+               "short_name" : "NJ-38",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maple Shade Township",
+               "short_name" : "Maple Shade Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burlington County",
+               "short_name" : "Burlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08052",
+               "short_name" : "08052",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1606",
+               "short_name" : "1606",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "590 NJ-38, Maple Shade Township, NJ 08052, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9419238,
+                  "lng" : -74.9689466
+               },
+               "southwest" : {
+                  "lat" : 39.9413905,
+                  "lng" : -74.969793
+               }
+            },
+            "location" : {
+               "lat" : 39.9416572,
+               "lng" : -74.9693698
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9430061302915,
+                  "lng" : -74.9680208197085
+               },
+               "southwest" : {
+                  "lat" : 39.9403081697085,
+                  "lng" : -74.97071878029151
+               }
+            }
+         },
+         "place_id" : "ChIJoYvD5tLKxokRGObgbrT59so",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "908",
+               "short_name" : "908",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Street Road",
+               "short_name" : "W Street Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warminster",
+               "short_name" : "Warminster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warminster Township",
+               "short_name" : "Warminster Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bucks County",
+               "short_name" : "Bucks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18974",
+               "short_name" : "18974",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "908 W Street Rd, Warminster, PA 18974, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2086722,
+                  "lng" : -75.10349289999999
+               },
+               "southwest" : {
+                  "lat" : 40.2086609,
+                  "lng" : -75.1035045
+               }
+            },
+            "location" : {
+               "lat" : 40.2086609,
+               "lng" : -75.1035045
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2100155302915,
+                  "lng" : -75.10214971970849
+               },
+               "southwest" : {
+                  "lat" : 40.2073175697085,
+                  "lng" : -75.1048476802915
+               }
+            }
+         },
+         "place_id" : "Eio5MDggVyBTdHJlZXQgUmQsIFdhcm1pbnN0ZXIsIFBBIDE4OTc0LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

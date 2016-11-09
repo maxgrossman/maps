@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2180",
+               "short_name" : "2180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Macarthur Road",
+               "short_name" : "MacArthur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fullerton",
+               "short_name" : "Fullerton",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Whitehall",
+               "short_name" : "Whitehall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18052",
+               "short_name" : "18052",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4520",
+               "short_name" : "4520",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2180 MacArthur Rd, Whitehall, PA 18052, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6367997,
+               "lng" : -75.49082229999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63814868029149,
+                  "lng" : -75.48947331970848
+               },
+               "southwest" : {
+                  "lat" : 40.6354507197085,
+                  "lng" : -75.49217128029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeawKxa05xIkRB6v187ryim4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

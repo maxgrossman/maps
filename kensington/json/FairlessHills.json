@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "179",
+               "short_name" : "179",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lincoln Highway",
+               "short_name" : "Lincoln Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairless Hills",
+               "short_name" : "Fairless Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Falls Township",
+               "short_name" : "Falls Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bucks County",
+               "short_name" : "Bucks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19030",
+               "short_name" : "19030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "179 Lincoln Hwy, Fairless Hills, PA 19030, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1847961,
+                  "lng" : -74.85949359999999
+               },
+               "southwest" : {
+                  "lat" : 40.1837564,
+                  "lng" : -74.8605113
+               }
+            },
+            "location" : {
+               "lat" : 40.1842762,
+               "lng" : -74.86000249999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1856252302915,
+                  "lng" : -74.85865346970849
+               },
+               "southwest" : {
+                  "lat" : 40.1829272697085,
+                  "lng" : -74.86135143029151
+               }
+            }
+         },
+         "place_id" : "ChIJQe14ekNRwYkRnZOQl75uAQw",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
