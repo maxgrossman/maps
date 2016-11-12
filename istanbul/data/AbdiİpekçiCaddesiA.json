@@ -1,0 +1,615 @@
+  {
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-gAAAMiRPK7fY0qIp2Q8SRVtytMBnW6FyBFNAQbfh7wBv5ROPPFpcWQQB54UTw_PkDH-FBA38vZBqufcAbgYTpXc7cCnWmOFiw6NY5yzBm8Y1EsoLfxjZsWvKOcsIUbtBQA-mv0BuurZtNXnhJwKljtHT8QoU3EXW44FPGo91V02TUIjoyKiVBr7NDJjNrn_6GmmJ2OUbvUAmAHmGr-FX42OFjA5FqzXKwEYTVVi2esEp522o1JqMQTS3s8O_--hzEafq30E_8VyEpfNx4Hib4-7nTEnsjD6R9bunxW3Hb9fsDxn8AcAuJCJobkztA1TT1nRYT3p6HMsa_Sy1_fMqKAWZVISEA3h4rYszcEkzKLBqDAwzPEaFAzmSGlu5hp22zO79ZkjMCunH56s",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0510594,
+               "lng" : 28.9926779
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6e3d6fe3492a2f671539f39d5a9eb03dafcbcd1c",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113091168443861067144/photos\"\u003eCüneyt ÇETİNEL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGp-JLvcXsZD8qGkAyHG1whOhbsp-gYCL97SrAX-tmxs10hvsGR7ro5apSrd1etYGV41os7odkR21HGiMMhWiOkN0uoRyx_ZGAFXPxmCjsTvrIbWAycPwWzjQVgkAH5BBJkyug3cLVpwp4W7ZIveykU4YGzMoR8CtWOoN3vHdc26EhCvzfxhpF0vTzCe-xQYhszRGhRZEo9CCiZjvYT7awiRj7LfgC-zYQ",
+               "width" : 3724
+            }
+         ],
+         "place_id" : "ChIJxaNokw63yhQRZ6nC3cCFmTI",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRRAAAA25Q2GO5tVEDVi3GzL2RjtJWgQYv5BEZZmwAIhDEnQeQet60aaMp0JoGdJVJsXz9bw2fuitb3PF--PDG8UHSh_Eo12iTz_kZL1GiN_heq-_wkaZLlmaOmRlKtnnBm6ZHvEhDi5UKu8ChEOUnUjR172pfkGhS7I4VJIYpjlAd6WGMqJ1Mp-IDXgA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Teşvikiye Mahallesi, Teşvikiye Cad. No:162 D:108, Nişantaşı / Şişli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.051459,
+               "lng" : 28.992928
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "06c32c1abb2666abb480665c9f6726c3e04d36fe",
+         "name" : "Zeki Triko",
+         "place_id" : "ChIJdTeusA63yhQRAyeB00YgZMM",
+         "reference" : "CmRSAAAAjXddA4UvxEcs_b7WH9lcrNOCRr0e5kqRCOQQmB7I5kZFqNFKgMGA-grMRtg_bOgzhcNXdKH-5ODwws9Lxdx9s_FBZptvB9nMestRwfifjrnh9lD72vpa4c4TyKSAR0BuEhDflNAzTAXDnUhx_qbgufcmGhSJvdGM8x2vYh8R6BTYX58u47w0xA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Teşvikiye Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0491837,
+               "lng" : 28.993802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0492581,
+                  "lng" : 28.993925
+               },
+               "southwest" : {
+                  "lat" : 41.0491589,
+                  "lng" : 28.993761
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "142d1afca4c549484b758c826d349a674d9467bc",
+         "name" : "Step Halı",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113148468938145408106/photos\"\u003eStep Halı\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA-HyrIzhF52GQLmcPYOE3GM_7dcvpwjo-w_THroZCufm1tRd0r_HTm4YMnEz7sZ_euCUaGfIFaVd3VAUHG0HF-GhThOweUCAniwHeCSwckrYq-mmnUms3RMn3L7IbN5AMQAx2g1Z4qaOQkZn-MOdZ6PBDthZPlsttyQ8d_Y_2U1EhDGDUID4GtzkwkCbD0kZpi0GhTEE5q3v5TjCkUByK6kPxwnZE2k6g",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJJdgC9gu3yhQR4KmOytH_DjM",
+         "reference" : "CmRRAAAAFNVw78QAQuhVVDkmjTFEqPjMCusj1sf_9KCoKJ85e8LC0zLapUGk8qL2w6rI2LWUXElN4YFW0CgsgIvHT1F39GL3WmyT6V3JvVB3phJKkHBY6-TSC7rtyWCQuCgP4KonEhAx6FvaYe882KfTgZpityX6GhTyWkxLwC4u6OubPjTQQWB3nbQRLw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "No:, Teşvikiye Caddesi No:101"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.051386,
+               "lng" : 28.991669
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "95cc1c6964afc2e9ba4162c09cccf09a16c3b4dc",
+         "name" : "Mudo Store",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210059460103769783/photos\"\u003eMalaz Halabi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALSwieYx3QubJsk96kzSYwjLGlrbwvUkObv8Z9Qi2Md4o7OzS1qHhWAz8DBEVqa2SkLgfFI4dWUJvqO2fGd0y11MYkcxx_ZUSYbnrLG_uMc3NfgYc6cSmO2RuAZy13dRPNw2oq_YEo73oWcZxEYCpGtYNXyzoJTsUPky3onkKV0OEhDoy8unx6dVqOnhjaafRWNAGhQAFJu5_jSAY0np6QeGHkH7ixKXrg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJUVaymw63yhQRgB80m5JlIaE",
+         "reference" : "CmRSAAAAtagxSnrOanAoMSykBH_NrOmZaeZyzs3r_9_ivcY7ULyx8F76MlzvKN98EYNuHAlo4Tu5qRB5UnN67KTVgOB8f7WWK_fGeCV-t_Jlaj916wY8R9GLJv-ZM_hB1uVupkr2EhAMjo-w6kW1h-qE73lhFxoJGhR-8pRW4LMvswIhx9estCL_Qg1SCw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Harbiye Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0510473,
+               "lng" : 28.9928338
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "17472f5a98a654537cafc563ee6fa9cf22533c45",
+         "name" : "İstanbul Nişantaşı Citys Teknosa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103693056086763461802/photos\"\u003eNawaf Bs\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMX8RZkPn0SivtBLImwsEe21qdhsXQyIkjqiKvaOrEQRR9C96LgAW2NEvSrhGcVZvbjypJHJ4U9-pM5yCjpFXUreYlJXTsdPPsDaEkm2aP3YMKO0r1UV_z1SB_20c4x1eikoasPRUkvPiSbUDWKjfL4-mv9zkYdGBFz0swg8xI4BEhBNybnUfBqNWtF0NPvCGtUdGhRvMHSAoDCoZGNWwrzZb-sFAoeaZQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyZq6pQ63yhQRlY9UPf0_9FI",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAZE4Rsmpd1vbRawO94br-owEgIsyqmgdbbc0xEgTIdAESTja4dkA5RL047cPnASCg_inXDLvPkPULbmX7mDjuM2ajSqykClvqf3rbJtchGz-5uaSMJi1y8Cp1pGUw3tYdEhAcHzDSl860UEUWVXo0Y3dlGhQhUjoiVzniXH2mn2o2ulFtWWhCFA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Tesvikiye Mah., Teşvikiye Cad. No:162 D:401-418-419"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.05110699999999,
+               "lng" : 28.992276
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0b3a090096a2e474316c7f2cf1fd280301cf1f78",
+         "name" : "Polo Garage",
+         "place_id" : "ChIJwXIkog63yhQR6iC4RQF2ebE",
+         "reference" : "CmRSAAAATdIR86VjXKlhojJ5AuyjIE1FF71H_jXNgVmUg-t_OXjozHJL96USRW84Xkk4pZnjrJJOjxyEaZT6ZYkFdMuoFDFd4BGOw1Dvc5IirCe799MbYZY-dhJeiKCGP1IZIOSFEhCXsXKx85na7GnjysKa9WNkGhT516ukv9iJbh2yg5PnmritESjfFw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Teşvikiye Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.049762,
+               "lng" : 28.995046
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "31cd9b0a3e538dd10835f291ff9edb5b20095f15",
+         "name" : "Beste Gürel bg's",
+         "photos" : [
+            {
+               "height" : 537,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104363691354429767299/photos\"\u003eBeste Gürel bg&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAB1GRJ_31xdkhsPDP8ulNtspEH5ykimp5M0N8l5teR-8zhur3-qD07cyh0Kd_9eI6mkkp6s0BiFi-2iCwrycPzKsNjz5un-_yZy2MO2-UMmwg7nCq5bC0AHKEGdAKJQvcfF6QQQzQiyMzO3Sx1EEZzUwtA6aaz48HnmStSzII5FpEhA8cOtKB26Ie5JeEgSCw3hzGhRrdiBZqML0RwVMuiTfzLPHMru7gA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ_wOs4Au3yhQRs8rtPzc-R8A",
+         "reference" : "CmRSAAAAifxAIS3X4mu1u-znvtagYzhraR4aQj-KX1XH_GfhZmsJwocGDmFuFHsP_6XDOfFlM9blTf6nBHITPHAaI8jNQoEEdYnY-5yV3CXVPWZxsCHWMwulctcdM0m-ot50uRNcEhChZe7H32jfev3PSwGww0VdGhQUAtJCgpArbHUBn7XvxFJekgpFZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Fatih Caddesi No:18"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0510448,
+               "lng" : 28.9934805
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.05107195,
+                  "lng" : 28.99352655
+               },
+               "southwest" : {
+                  "lat" : 41.05096335,
+                  "lng" : 28.99334235000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "32943f40bb59284aacbe01b740c60aa056f10d8f",
+         "name" : "hobimeydan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105320510892992897769/photos\"\u003eHobi Meydan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAIR6mwe7BKpK3NE50FF7S4cD1p0ED2nKhP0gpJrGba3jdw7hp_u9lN72uiKnbV0QXFMrS_3klfu8VaMcDJ73WP3lHzzRKbNuF6PLHnfJB7iUaLUaF_Qb__HhON87F0USUcc977BDBVKokscOcUY_z6C0qeiouqh6fTmSo_0_l5obEhCkTxPAKqb5sdkvEykRIYd9GhRkmKksQdbmfcA5o8jZNVS5BvxMYA",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJi4zx6g63yhQRWUaixLnzHkw",
+         "reference" : "CmRRAAAAh1IqOGvMYdctgnqxB8DnFSxqxeImgRxcQT0GY0WekhzOBK4UsVOzd6_6UL4hihl6YPx5XPk7AwKvSPaOMVi4fZejzDJA7XI_MqyB7-mUi22BmyHZsLPE4E6PDPOhQlLvEhDhLa67FbQ3KO0rQQY8wOMlGhTLjNgol88_eeCXdOJzIwzHm55AHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Teşvikiye Mahallesi, Akkavak Sokak No:1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.049372,
+               "lng" : 28.993911
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6016ca9f49a952616362f848256167210c7d04f0",
+         "name" : "www.gecekiyafeti.com",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103042906493956897960/photos\"\u003ewww.gecekiyafeti.com\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMy7N6H3PbmNRQpZ6lb-khs9kNSQfK5loPSl3Qh9Uyzqa7BnjWnYul-iGmzGvnZCFwSpGUUaIPZiv-IdjHqg1nAYZcXxxCP77HQBynIvN7j-9bBOE-y_AFTm0Jd8AuRAr00Tf_zN6fS_6uGbhhbodntC8poC46itPQLruqII_cvWEhAGa5fsmbw3R1IX3y6n1kbYGhTQB5MhC8Oe8LBSMVhdlfCwMuf-Qw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ50xv9Au3yhQRJCaFqFQEcz0",
+         "reference" : "CmRRAAAAKAOZziibDSEatIc7Z5lORvbWxFJ2ajK-TIfW-YavpzZvo_zqG935cQAonn6kazxosvm3dZWj-I1sLj37v389iBZF3w75aughp2dOe7nhkqm8axyOOMq0o_k1dGsg1I-REhAihs6fmafxkJnAjwN-aVb_GhTrsvPRc0IfzjF4kPoS6VpvyfvR2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Teşvikiye Mahallesi, Teşvikiye"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0484632,
+               "lng" : 28.9930558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0484829,
+                  "lng" : 28.9930979
+               },
+               "southwest" : {
+                  "lat" : 41.0484041,
+                  "lng" : 28.9929295
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4e883474fb4bc1a71d573fd6e667fc75cd12ba2c",
+         "name" : "Burberry",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1331,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108406483159783389130/photos\"\u003eBurberry\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADNSW4nHlMUurEyBMnsbvy_BIrZOJti-pPIrpC7X_O4-RzWWANH1wEVjUw4AgYpMHaThCvBT3r0p5JIytS2xvM6IUBO5-g1oQ4TxGqUBMh5t1O37hWC33JAXOJX_xbgPnKub_A8rYinv_q4llbBR302KJihHoFKkdZEPDrefqn9eEhDTsC8VfHbJEIVGSxwXET94GhSnfmqhIGVgYSitW5-sIwpZzjlkCg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJNZoShwy3yhQRJDrWYksCbM4",
+         "reference" : "CmRSAAAA_Q3H-yvh9GwWzbSN5vkBAy4TaJ_g6kwnaTrLHXAqHxUQLv_1afVxl_vbkeWPmI38Hk_pr9ZqU53sBa_XPBPeLrF-gl5ALsCmtIOJ9K-Pjosv8jDPBXYkgkqSn3t33rpLEhDih0-MM3bIDv1eihb_Jy50GhQ2tHsOFiUmD7mj_58K563pHV6-Dw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "shoe_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Abdi Ipekci Cad, Park Apartment No 5, Nişantaşı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.04802300000001,
+               "lng" : 28.994209
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cbeef1706d2e0943f03671eca8ac59ee56b13375",
+         "name" : "Kantin",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 947,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117248438292489694742/photos\"\u003eKantin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAChCdoZaLj3j0JnBShmiG202FgM85LmHeDq15L3UtlhfdA0hoqAIiL5N3NbWzryT_AHwuC2eb-qqerTSH9zGEht28zB6_bWqVBgZAzV6n_hd_rmARpZudZtnwM2eghM-kiJUig_OVeobznPWxPFed_QtyQ1sUm7EtmbZxcShiIyEEhAAAtsDHDAOOX1vzD0iOAA6GhRYgtOdkWP9f4WV8vM7TugDVkGJsg",
+               "width" : 947
+            }
+         ],
+         "place_id" : "ChIJgWZ9nOajyhQRhkwIxfYXOIc",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAADdxCC5z49oJcT-jEG3fwqlGnvVx1ZdjFE92ekRdfzR8tOzdRh9hPIOatgZoU-DfktjJZB6hHFwmrYyiDEHYWGF8x2YTomnG6sy-51hecat2TJB6nJa2rtqtRM61m_aN6EhA0nqRcljiLQqn6osEzOn0tGhRtqbyJUZ8mWYrn456bFPVLfQMeeg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Teşvikiye Mahallesi, Macka Caddesi No:35, Milli Reasurans Çarşısı no 16 ve 60, Şişli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.04849400000001,
+               "lng" : 28.9932559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.04853855,
+                  "lng" : 28.99330255
+               },
+               "southwest" : {
+                  "lat" : 41.04842714999999,
+                  "lng" : 28.99322475
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "cc380d23288901a19f268b1ba070312fd052f828",
+         "name" : "Kav Şarap Butiği",
+         "place_id" : "ChIJUf_SiAu3yhQRobc6A-b1CMI",
+         "reference" : "CmRSAAAAErUGv88JoB1824qa0NS2jdraDTznHhHKgRWEXU05uVH2AGPZgXOanblaaa47cokjJwZot7XLBo17NMyJYM0Q5krhzEXhuKyJaigZf5BmivZZd2DFvJdPzUaapt1DrGqcEhA767J9qh6TiRN6yWXOogpJGhR8ZoYUm1eXz4-k70d3Fe3aj1K4mA",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Harbiye Mahallesi, Atiye Sokak No:12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.049124,
+               "lng" : 28.992466
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "94bb46650c0c1ab693253ba5fa5235dd03475310",
+         "name" : "Vakko",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210059460103769783/photos\"\u003eMalaz Halabi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANr-F28pGEYELzS7-reOm9WsF31nNHKMyd4-e-nCzev5ispl8CQ1AdT9-42XjO9rhYIdZy5WW2XEXPKvfyKBsQk5Z9j5hOvC8YrbrsAXje8TIhrUt6P0xY3_FD13fnC872uyxOZt_cPI9ah0e04O90K_NdyOFyr7NaH5otXrKaGxEhDauuyySvz2pgrjXHSdU_5eGhRCam1s7kRlVX4SJobaOkk6rK0H_Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJBQ4qaQy3yhQRoI1xtZCkW5Y",
+         "reference" : "CmRSAAAAlrnDaQPnjW6tSWkGHIfHH2zlU4S2DtneUFqcqCDzcR9EV8S4x1aOLo3uNoGXHB9Im9xTbNUwjjH1ojR9VSuXJSJSLrQMGj5pmBzdM0QHuQYSx9sBuPYqTaJKYdFIcOkOEhDXpHIdqjM1JdXCWmmaivhgGhTL5GMTw9kOEHGmIVhQGVw-CBH-Dg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Harbiye Mahallesi, ,No:, Abdi İpekçi Caddesi No:33"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0508371,
+               "lng" : 28.9946649
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "86087d28d68c408b2fc1cff3f7288e217f872b5b",
+         "name" : "Migros",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJCwSSrgu3yhQRpq1OQFibyWk",
+         "reference" : "CmRRAAAA6tWXfcuwuGz3fUzByVBuCxYamvtoVGveBEqHTIjlZE9pqhtt6Ep9m8xP4jRYEqnCy3x0Brcd4urQTnyJwtY_iofkb4AvoFPA1MlX-_1-u6zTgL2LCh1YOLmJmhGM8GDeEhCTYBgZxVGZVo6lH4MOVELaGhQsQNAkx8mlSlzSkKoPXnUex1lwew",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Teşvikiye Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.05063,
+               "lng" : 28.991122
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "918e638c75bdffd0c4a44e15112668f21b969911",
+         "name" : "Nespresso Butik",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118363191670177013619/photos\"\u003eAhmed Al Mansour\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGqgvf8Ci2krzynrO487EOD2rR4tx0unlGyO4MjfnZ21BeV-bgxelnBkTezNG4ZEfP0BIbla9104HKp03FER_c6uZ6aoCKL5CioM_pDDAWCDVzn6stJw0qlFPgGtQzS_Ey25VKQm-O05g98eQr2GGUOlf1RId5y4al8DzbIiXtYeEhCpPslUGrbVXflgccGrFyfOGhTc824PlwxmRzy0c2NBo1wvW5-E2Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1XFaSmu2yhQRqVPXJEj_Feg",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAGdin2lhu_cKDtcUg4hCfiXUQsnjgPRn5RYoO-hYXXBtwDZS2nZTL8_xHTKfy1l8nRhWimmGNiGc4fQ_ZTN_KeG_RsXveGM1nNlWz3_MgmQx_VIjktJX3mD4t40JM19lxEhBDWWUNyzHOugAzQ2pwaVzjGhQN5ZvL6q9KJ5KKsPBE9zATOzUa5g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Nişantaşı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0490799,
+               "lng" : 28.99256099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ed47287c0777292c8c1c4857b10ce0b47cbf2025",
+         "name" : "Louis Vuitton Istanbul 1 Nisantasi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104206192034217916060/photos\"\u003eRaluca Isac\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHBW8c9HDgVKzrXj076VuJvNCw80BrkrPLFrtggVC-i_fYltNHGp1cBfaUdTmLh516swq_IaODYHemhLoWrjuPb-6dN7Zrc2AL5_bMgL9gVlXZbE4QlhxUYBbQTCyFUSXQ5jP9fS-hN3hlF_ZsBcCVuDVxh_Hk1D_L72uSsLp7LyEhAiYDzsWcftzN1MAOpaMdDPGhRgBetPyOBRqsWENBfHg7p_X0wPRw",
+               "width" : 852
+            }
+         ],
+         "place_id" : "ChIJo6yIP2S3yhQRUBY379ewuks",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAATiDmbgrzOQbuszOeG_CcsmcTi-xRcsm1nuOZ4L-Gu5YMICWpSz68sY_kcff-VbvIW8iI--m-3Gd_JjWBW7j27SXjj99UDOC_OuzpPhY0ICWg-qa_lcMU_M70FjAVxA99EhBHvCUSPcrPowBlz_-VJj5EGhRfXnkanHZQrvypCSrWLHDe7h3ZyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Abdi Ipekci Caddesi No 23/2, Nisantasi, Istanbul"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.051081,
+               "lng" : 28.990802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.05115495,
+                  "lng" : 28.9908351
+               },
+               "southwest" : {
+                  "lat" : 41.05105635,
+                  "lng" : 28.9907027
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "92a251bd98c9e28109fb1f263479d806762ace71",
+         "name" : "İntema Nişantaşı Mağaza",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116863248706711328277/photos\"\u003eİntema Nişantaşı Mağaza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJtwQMV0V1BmjoVmzwAWS_XSC90k4U7A75tJoLZjXAqQiWN_q844M-56domcFuU1eZj_KJezVd0Vqhg36FJ6b9MwPQyBniRpysqgMnbBN8C_eTcQYlZJ__wWS8pFwElMwXOdNf6_8CSWiinYqqPD6wWThnBfa_vHBgWqNx1y1fKsEhCBcfXgj4aMW2YJqD0P_1y7GhSEAhrUwWrs8dCjpFVrQDp9hVBymg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJSaSm9ae3yhQRzMACKFCLhtM",
+         "reference" : "CmRSAAAAMEPHEUeN-RwtXwLjD9L1qW0YczkeenvYrbMhVqZqJRV5oITIFGsA-MtEiamu3y5no_I_znVExUYreCORYqc93ao-NDepe3Ns1hHXUtMYrVS6-VhNCbBBND_KaNTO1a2hEhC4fAfWraaSU42Fha2WIoh0GhTBhgDwdAsjYu4wcRZKkHfT43ogVQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "No:24, Vali Konağı Caddesi, Nişantaşı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0512744,
+               "lng" : 28.99182200000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.05142379999999,
+                  "lng" : 28.99247674999999
+               },
+               "southwest" : {
+                  "lat" : 41.05082620000001,
+                  "lng" : 28.99160375000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "14ae62e39a5422edb275f2ecd63ca39ac5847955",
+         "name" : "Swarovski",
+         "photos" : [
+            {
+               "height" : 2427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109558333099226770666/photos\"\u003eJacek Data\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAObhVnlrRVGUqNz25nRcbgcYo8BEyZBIunz0RalfH5liLPzRUEa1Q8rFkVpmAh7ABnNKafJhOHNU427xgk381O1-ia42N0G5MQKlFelBVTRAJ0UUqM2OCtmBpOl-9J2H9A2cxXeQZ70-1BZ4-EEZUfGJjnRMJ_bE7bEJjYFYCDn9EhBMiAQ1KBdEj80Wnsjq0utgGhR8IENBjy6kQ8h2UtInZKjbd9a6LQ",
+               "width" : 3537
+            }
+         ],
+         "place_id" : "ChIJpYfi-g-3yhQRQ6ejrYyGMHY",
+         "price_level" : 4,
+         "reference" : "CmRRAAAAqDRBiZVIG5FR-gADc4A0Alp1KnHo2CSelPF2FIG7wP069LbN-xSWTz16qAUM4SodG0XHc_xL5DDDJo-kDWe-m-h1aM0bTByckAAqIhpQq3zQmGbD0dwXFyAjlpiDAyfgEhAfa5ru2VwMxLVK9zyiu0RAGhRVrYQSmx5Fu3d0infPyAHcYZPG9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Harbiye Mahallesi, Teşvikiye Caddesi 59/A, Şişli/Nişantaşı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.050178,
+               "lng" : 28.993569
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "907e08682103b12865cc790732acfe5bb88bce66",
+         "name" : "Silk and Cashmere CITYS",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 630,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108818428578471456632/photos\"\u003eSilk and Cashmere CITYS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGAVAov1mpR8OC0Z9Vz4vzttC5bpXBrE07m-XfLeEHJpWAJrWB7Ljybmoe9LKKF3bECIqQeGL3I2GVGZdxOsopesBCy_fhkxLgpvfABpHHZ1nEOaHd3A8pt4FS9NghMcr47C757_sXRhB01zcGrw_cH2dEhgvtfaE7GnJG59uUL-EhA24fh6B3KKuKWIl5Cu1a3HGhQyqsh36YiHTIYPqwthTVI4vXulLg",
+               "width" : 1118
+            }
+         ],
+         "place_id" : "ChIJzQj41TKwyhQRI5f2d46mZzg",
+         "reference" : "CmRRAAAArwjsO8cGu80pdzvbckQFrMSoz_gbMPmtQmKtQimNRWXqsZxP-rYlkYRC_nXtsxFUWJ8zrF07nrRuNAZIBpHzIVsexoKqArIo-O2sZyWU3ZRGdiN7GUuFC8M44U7vCYfpEhBBLiEf7znY4R_dZQeIwWzXGhTdumksRSdv5xj3TX5nFAMcrvtTEA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Nişantaşı, Teşvikiye mah. kat 2 no: 207, Şişli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.05059629999999,
+               "lng" : 28.99233
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e814bf62e76ef25c16604e4e53c2d606102328a1",
+         "name" : "Fulya Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJv6kxHGG3yhQRakebe14ZPVA",
+         "reference" : "CmRRAAAA4OvMWm7_lWF_OQ7TuTdY_ffX-vUe1xRmL5BTsxf1qySVdtl1VUISEk5xGGFZODwGZQukMIZwSHrvbnvgMRwn6FO6n8UEHcJKc_H-YltWtEKJ51wnNo_3Hmjp1yY2rEspEhA5CiuJ1eD0sjrpiwCxr3kpGhRCaOBh1PN2iKUmmzMnIAb_VuXELg",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Fulya Sokak 205, Şişli"
+      }
+   ],
+   "status" : "OK"
+}
+

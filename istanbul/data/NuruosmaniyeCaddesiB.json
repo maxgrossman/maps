@@ -1,0 +1,588 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQDmgEAACziBXQRTAosFCa_I3_d8vr9sbbF5Vu-Ux8P6svELVVzKE6nggB-xk2XuPW8WffT8NYM1W6mzTeptYTsPF0lFYznNLFR5lZsEqWwFsYaLTN3HCMEPT_WdKpF95z7gY6-IiNkSXqod_GZh55Z8vVJkPvTBRXsAt-XYAZJt3RudJvfldhPxwYkWTuy9Qd4mWzIHdO9_ytcYbGYIxC4iohfHNtoWeQdwXIoTzm8i1PQ4ZxqRIrH-a2tUBBMHc7-X2yQQfftB216_016qvfPoHh0b0BvHN12XuqbzT6FhE0JSmmW_T8LCUJOhOK8LzwSDS8FL9Fnpg-tTmXB8yjfolB7yi1_c9lSSaGdgwDxVaOpFLixrsFTgHRk13a2hsrxlzbU9XAZtb8DzbKBtDfXS1digbDKYz7CReoFr0flumoHWoupBaKuqzywWSus48lusnEx6lpfJhShcS-u-K9EDMKX57p8UFB7msO27zWDiK3W0a1jM8vuOt9zmjMgZHFtqMU576ZaSmRlBLEljPIQ-JBcsaecmFm9n_0e4n7CDkvYJOFdEhBkyB7fCSXUptONnsYUayXQGhSuuBPnrC0RxjI03X_-xtrFIsOxPg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.00916,
+               "lng" : 28.96959
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3e5a45778ba6b9611ce79503749b70b691d4c737",
+         "name" : "Akgun Silver",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJL1ANO5G5yhQRFxFSccZxyDo",
+         "reference" : "CmRRAAAAYqcYzLnLrwYI-8ESnc6NY5upxrf377oIJ-8nA9VR5TU8z5Yu-PNuvQNVjNLAMrdw0ixOn3GklcIQJzDQRLhgkXuZuyZLK4l_i8FMuj5F-3bFrvcH1ZZ3TwDBWgqPOGocEhDHXUsUS18AvjFiJQDeaqZOGhQMF0AMqzC3a95flUZL6qY0fsMKoA",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Yeniçeriler Cad., Kürkçüler Pazarı Sk. No:17, Çemberlitaş / Fatih"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01136169999999,
+               "lng" : 28.96695749999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e0516da973b36e447d47d3f6928b6175d0d9b556",
+         "name" : "Fashion İstanbul Atilla Hediyelik",
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104701337223011311035/photos\"\u003eFashion İstanbul Atilla Hediyelik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANhFumjSTF8j-Isgppda4csFYsxD0Vmn3CbsUNaah6CWGpj3XyBVlOBb_qY1XZSMxlUrQazWAb6QPztKdivItTOOrzkSslYfc4_FuDH0ARmyM7Pp0HRxSbQxK15nwpR1hU8z-N5op6Yva48D0MJKrZi4JeWmNrxWIw_DemwnIioLEhCnO2cyBrPuhDYPPljT71jcGhRWsuh7W_f_BmQu-KPa3XcVO_FuYA",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJWUA4h5G5yhQRraY42z7ZpVQ",
+         "reference" : "CmRRAAAA7-Vb9xIr68eYCPRHZEa0ULh4YfknEm35hyENI_NW05aXEg3a3UiFeugX2tqi8IlzH-V2YNvktnX0lt13Sv6Uz32G722gbs6E_7DCuE7uVLtk6l5lV6b3j4VL6zqFtWv3EhD_8Ecyvn3-SLcoKuddYa8VGhR-6TQpxjfZ85H3s7XK610rXmZH3A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Yağlıkçılar Cad İç Cebeci Han No:31"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.009753,
+               "lng" : 28.969437
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0bfc3a10b170be7ad16ddc54b01de74967ba1ce7",
+         "name" : "Nil-Ay Kuyumculuk",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117304929408771930816/photos\"\u003eNİL-AY SİLVER\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAH8jGhYCxDpbJbRP__J_rVWdLZfNHR7gtb6CAA7xjajU_TB0_tqQHTEfY8tYe0_7xjuYKh10hQJm5t5YjYePd3zLW7O0PAXWDrfHUx0Y_of6_dhWfG4hcI-qHpTbxtBo2xCxQtZ1fXkGEnZIelt3vooXs1PKJ2Lcq4giuJDNvYheEhAk0p7IewN1aWl-vAbwihoMGhRPw-dUfmuVFJDRQvh1uopXQd6GOQ",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJy8NZRpG5yhQRYXE8uXCQdlk",
+         "reference" : "CmRRAAAASPcLSrRIHOHWItEzc3hKwiI72b6wHV5YlO9yHXD3jXtXrc1giLoWhZ7BcUS4yaKlJcbJiQ76yfJQeBpVEAzN1LAc2Hk-TJbE6xrZlARbZdlWl2IyxX5MIkawuFAiFrUJEhCwTlfUFvJlyHHcMYZGRB4iGhSQNJr1Sk2kXFPD_28lp5iwNMh2VA",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Beyazıt Mah Tavuk Pazarı Sk No 28"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0105402,
+               "lng" : 28.9674393
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9d32b5726d82c071efc55d576a9de552e13185e8",
+         "name" : "Sark Kahvesi",
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101758314035966632066/photos\"\u003eHAKAN GUR\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAC2APM3NCXC2uP5vZP8WOd0isELQrU19HWbCb25a24HSWHMqa16GYoMZj36pprWyd4JIpiMlfA4CwW8XYO1RfxLTkRUVIRP975M-aozHidb2bxAzw_i1CTpUUkWz7LGlHQfD8IYTOv09cIvRhomWUfMFmvkgtn24e2k4kZGkr0OVEhAcAdmGXR0LO_VLMmU0N1oNGhS18koYelSRVbWy-eKjsSb1GfRObw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJDeTF1JO5yhQRMrjsLUv9gZs",
+         "rating" : 4,
+         "reference" : "CmRSAAAAsB4fgzgp060XuVz_3ra6kZa7X-kHzJsjlUb3rKg0mOsKCXeyJ8_cuMCF53N-2CKIKRlU-12YxcUhABwGdIiw0NWetdgCh-5gav-tKLCGq8wvwpVAqXF8fcMchl3OPC9iEhDohISpg4h4Sqsyvm_2BjbwGhThyDvYcOilWFU8Tg--5iBjUte8cg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Yağlıkçılar Cad. No:134"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01199,
+               "lng" : 28.970573
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fd38cc8d2e059e531d9cbc73c56b531e0e835aaf",
+         "name" : "Suslu Bebek",
+         "place_id" : "ChIJa9qGoZS5yhQR_PiQ88TXy4M",
+         "reference" : "CmRSAAAAPugaYosZ0WkuWIDqASviUB8VSyrTvfPFuCmPHIwEbIQns3WDbTqHNTfBZKzVg3nCME18qQNtXnhza7CIjlQyV7ydsM69m8PL4nJxTgpBSAX9Lf5Rl1c-ZaS9tcai9DjUEhBVWfIUS-dJYkP6riFdRXczGhRbaQZO1gQkXZHB79yLaavuOUnLxg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Hacı Küçük Sok. Havuzlu Han D:31"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0107036,
+               "lng" : 28.968944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.01088705,
+                  "lng" : 28.96930370000001
+               },
+               "southwest" : {
+                  "lat" : 41.01064245000001,
+                  "lng" : 28.9688241
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1b8e57d45e5807c172a36941225b0e3291dc9149",
+         "name" : "Gizil İnci Kuyumculuk",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 458,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105661779577147852541/photos\"\u003eGizil İnci\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJvRDjsPLWcutwL57HM8rd9lxc24o9qB5zkq7lO13mA29GqyHib40qo1XFwVn51EdZrZu1ZqOoGL4GACNcw2kluKomSjId27jm3STHNTj8bhgnZlL0_pkkYt2jdbkZq45ZnP8ZUIbvkN7fGxRL1qcOb7XWyrUZnb5ZhI0y3grt9xEhAHrwVGe6UUxyc_g4BsBllmGhSj5Y1N_oPxGzwHiIBCVg8lhJ2dJQ",
+               "width" : 677
+            }
+         ],
+         "place_id" : "ChIJ2yDaJpS5yhQRMt6Vk3Xgtz0",
+         "reference" : "CmRRAAAARjfT1JC3GNVSlhkXLTUM-Q6Zm9hogSLhQQfxUYU82w0NJ9wtwlZngtYjes2TlT9h2of8Dw9hli_RephnR2nhsdKMKn4YwPMKRfb3Ld2HeowmvL9iw5EutNjcQPQetjo0EhAsElSBhpU8PUcET8zGOHQJGhTF7HlTX8tWJGODc4R85h7H6wkxPA",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Beyazıt Mahallesi, Ağa Sokak 2/6"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010879,
+               "lng" : 28.967868
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7519d4bb00a5377dd54b2b429d35b76825171cb3",
+         "name" : "bilgili LEATHER",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102367578392733822985/photos\"\u003eFato Fogo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAML_PbV4yjTiU5GbZaJ0k3mXmDbtb2R52HdtfAWt7ZE_dEZkdFpTxfWsU7UX6B4gFPrxM6eMdHxAq1DQG1FAZsXC4FjT4TklbBm8bfzpsul_g3AlLB2YBki-SZn7l8c95-2BSgAWZU56zFX4WddkfmyEka_hJ1yaov6AXz8-en-zEhBnbGKGc_eNuI9bqVKsWvIkGhReRTbQmbRFFTvUuNwddQGvLbzv9g",
+               "width" : 3090
+            }
+         ],
+         "place_id" : "ChIJSxgLfJG5yhQR3lVz5ix4Z7U",
+         "reference" : "CmRSAAAA7yXyvDVtxalH9MRvYUPPjKIb8gZDuSaTcQ2QRkKw_x6OSdNfc8Udui1o-en9h7-0ROOdjNGK3717XMw1Py-zf_zOAk__FQy8GKNVBpXrjvnrJY7Ebb-KAk315XwbBuF8EhC2er233Nu0wY5wPxAdgkEsGhSuMSeEJbCtmpef5FqGEFBX2QUkKQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010685,
+               "lng" : 28.968511
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "30c3ce1f901dc275d70b93b47ed2683b771e2c83",
+         "name" : "Topkapi Ozavar Jewellers",
+         "place_id" : "ChIJJfvNqAS6yhQRPF2XQX4F7l0",
+         "reference" : "CmRRAAAAoI-7cn7jfj1KipTD9Vyti1rWVkAA2DhnmQhDzEMSpCy7Khw3eFWOnnjyKVcdq8fE5bycESQs-AWDnnhE-HSZvfq9de0_f5dSkE9GwVgiB9gQywiNq4hH4smU7qKQA-CMEhAtndEvemhP6cmQJOOyxwe3GhQ98us2PbJJK0G9p8pBT-sS6oXkNg",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kalpakçılar Cad. No:10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010103,
+               "lng" : 28.969738
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4a49da75e43994c57492dcb4fd2d0c6e8794bdc3",
+         "name" : "Mehmet Cümbüş Jewellery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJRXEmXpG5yhQRPnXiYkN0Jas",
+         "reference" : "CmRSAAAAnkD-rQShacorrZyUYhaABbv1AlK6hLIN1eZi1adHroPnvxaoX5GnTtjmNvnKqdo62YEvDSjwH7cJQEV4he7F8xlXaPXhl47-of4J_UTFRcguWCbq8FmJ-emejR-6jai_EhCEYEbOclFRB67DZaOmcEbfGhSXWNpu5HMmhTyz_3a4rcpaO8FbtA",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Fatih / İstanbul, Kalpakçılar Caddesi No:8 Kapalıçarşı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.00975649999999,
+               "lng" : 28.9718695
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0daf711771141aa8eeade62bbe92df0b619cdc0a",
+         "name" : "Sevan Bicakci",
+         "photos" : [
+            {
+               "height" : 4208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108971534700098888049/photos\"\u003eTurgay Sevinç\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGBh-gsZS0xkfWSo-t58SE8KjGbjgKuMYDn8fof7ISMvWUgMD_D7GCWTI4jlWR59yzy9B3FJNLRSjDuYpwmDMzUGXTQwZ4mf4hrixGX3WhN03o1cNFfgKl24gRI5ZX11jdIIn8pwF899M7ENWQdCDFk5bjdkPM0-dtBZbPKX3SNoEhAqPAwpvKO2dw-a1qahjYKBGhREcuid09RS6X936WcqzpynAisknQ",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJdZNqiZW5yhQRaTEth2-2Ivw",
+         "reference" : "CmRSAAAAGn3iNmoLn_3yc2t6NaF2rDnItrqupmFgXx9mncthOkS-GOTaBt0omtLjmBuXmpcw2Y2yli-yHYhtfXLPZNuHHGBL9PeXdC2JfDk43ImveV8lDQ7hU8lgwrYpvlr3nA0NEhDn6yF9YYDVgnW_SlWYOvllGhTZplx9urmx6tBPLEQt8hBwtdjs7w",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Gazi Sinan Paşa Sok. No:16"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01008759999999,
+               "lng" : 28.9699665
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "981cf59ae8fc97cece221ca1b961ed98c5704a7e",
+         "name" : "Hali Sarayi",
+         "place_id" : "ChIJi_aC_ZO5yhQR0cdC7GcyyFI",
+         "reference" : "CmRRAAAA6iTB1kwP4mxT3Wn-pzEHXD1pJtpdxWY-hD1dI_1XRLKtNMR51_uI6-JOyM1Kp5n-PR_lGA3FEuYq9iUcJ4PV97ukfEsbSOJ4Kj-HfTh2cnfgos9f2nMMirccqPeYQJQJEhCRvP3jPLRsh3GtozV6mj_IGhSqiZGXfvLHf2E1-76tIhmp8i-Auw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Nuruosmaniye Cad. No:52"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.008942,
+               "lng" : 28.969587
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "da62cc9154781648f231032ac8357ce394687032",
+         "name" : "Haciburhan Bead Ltd. Co., Outlet",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwRr9LJe5yhQRq8MOgWpQXIE",
+         "reference" : "CmRSAAAAU0R0gTkBs7Oto88DnrnvU67NujTvSV2XeukhAgqr9Vu2h_QzU_Hlm0MoQcVJBfxXFWFKiv75MsTm-BsANpg4oGx4nLe2Ur76VQrcjgprEdtqgJ3DCcCBPQHModOU7TRFEhCg4Qp1SZa5bhROx1pjgokuGhSBfmlzAtmVDpoTa4NKdtXI8pH9Eg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Turkey"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0080271,
+               "lng" : 28.9697063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0080679,
+                  "lng" : 28.969715
+               },
+               "southwest" : {
+                  "lat" : 41.0079047,
+                  "lng" : 28.96968019999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5b3518555e13cd52603288847d9f92be378d7d2d",
+         "name" : "Yavuzlar Ayakkabı - Ayakkabingo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 315,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114715380975927500396/photos\"\u003eYavuzlar Ayakkabı - Ayakkabingo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEJUBx3hlcFuzl_C0ZLqoZjSZKX1hFV2mpod_z8CCZNczH-qkXKY-0_tAefuHLQJLtJQ-WcorZPRlG10sn5RLMRXu3SwFK0_80-_KscLHVnLRW9Py4CRSK2LCCtb0XA7mazUOUjLglK47L6JlxiAagrxXoD0qx2ULQ2kPol79WvoEhCKDTFKm3sOSi1r0ptCl5rLGhSdos1ZbLFn0mNLBwyRn6mHOmxUHQ",
+               "width" : 852
+            }
+         ],
+         "place_id" : "ChIJhQ_50JC5yhQRengPOkpVGSg",
+         "reference" : "CmRRAAAAzXTTOtA9G2O8dNsL0Zbm1dLHO_RvxkYlV1zyVEpIICxo4aOPCCUQ4Wj23g9frsCEdys1C0iQHWrRp5wRzC34Lyx-ijaUZ4oupUxfOoESxvEAb3-DW86zsJddvw-5m81NEhA9kWgu9voZ5xj1UO4BIzRcGhRt24M3E9-3cNyh_asFWHAl6eAITg",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Emin Sinan Mahallesi, Pertev Paşa Sokak No:11"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010144,
+               "lng" : 28.969177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.01017955,
+                  "lng" : 28.9692109
+               },
+               "southwest" : {
+                  "lat" : 41.01003735,
+                  "lng" : 28.9690753
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "81f3609373eb95ae77e20bb03354b059a4c3d8c3",
+         "name" : "Olympic Jewellery",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115795988914785758853/photos\"\u003eErdal Nasifoglu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAE_nWNukg6_MgygMq7-EMx_h-YoBJMWIV22ZQeVXk4bBtstyUmicnLUT-0ZK-28wNahJUnlrAwkY4orrLe2gRQ_g5EJb4sI8zTKfQVpCFfF_4w3U7xdmMvIRzUZgTizK0dUPkeSDBrqBwTIs4nmSdfx83sox9sTYe371S-cfB7UXEhBTdPyl5BZUzGExQEGpiL-kGhRc7nP9-gBmRRwURlkPCV3_uIoS4A",
+               "width" : 1551
+            }
+         ],
+         "place_id" : "ChIJ2yDaJpS5yhQR1OsfmEHMbgs",
+         "reference" : "CmRRAAAAzKV_I4AjeBfyQZh6aLKi8TO_OX6V5M0RNSqKRhENWP0_Tg5sTZxaWxXBMcMkQWnNEy-as0JXCh-tpZ7y_47WFIlYliNwWZKERzQAAVbt1tyh9rLgEk99_ex5nzNx9QZUEhCzL7BW_dQzmIW24W8hDNmcGhR29ce4M5HVc6PpjeZYuQlT-hEK5w",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kalpakçılar Caddesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01000690000001,
+               "lng" : 28.9717185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.01002369999999,
+                  "lng" : 28.97177900000001
+               },
+               "southwest" : {
+                  "lat" : 41.01000130000001,
+                  "lng" : 28.971537
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9b77dfb07c6d7723ce068aa5b55ec81370a5bdca",
+         "name" : "Abdulla Natural Products",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 454,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116251009053423400203/photos\"\u003eAbdulla Natural Products\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADrqGtBdA84Uw79rka62uoIcicjM8NzYptLtz4t8_QbVmEg0bw1f3tYSqPVyfFMsBvyzW-174ncp9h7H1VlYkge2aw1ssitRVaOdIRHI--gTdllkFfgW_voTME-y_P76zjMtJ8zYQfE5CeUXZy_1dYaXxba8jQH44rV7le1nyR4WEhAMPRauYEqflcT8OaxYp62kGhRSdJ_9SbVdc4azo0chC8oPlp473w",
+               "width" : 454
+            }
+         ],
+         "place_id" : "ChIJVX34oJa5yhQRDI4Jvp8tScY",
+         "reference" : "CmRSAAAAyWhO9RYHgxrpbs8IHLKbglAQ30DN19UXX2ThZW0YxJ7mxQoXI8-A2meoXRSbBUOdy5mAyRhmrgoKxytI_-uvjwwerZ7wzrrDfcREJtUgtsOPu11OHVTaAdzZ5l-h0YNeEhCZcxJ7KMEZ1Pa-xsv1NX0-GhS7YPtxZdEufYc8bTSNE6ZMto4cOw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Ali Baba Türbe Sokak No:25"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010611,
+               "lng" : 28.97194
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e100a0258ea834a973bd7d3652e5717157adf761",
+         "name" : "Roberto Bene",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106747595564631644947/photos\"\u003eberkay altunbay\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKjzHH7dQ72KNNtULOMB8XVQwDW5UzBGj1cRUv0NXG_4co0HnCF1oUH6WAjAfFzol1nw-V-Y4p7cpudykrghL_14PmNqtugyoZf93-WRzyFNfHKbfDyzMn1mdr0zJQolvOEqvJSkZkxYFqcM17fmoVi55dJdZK483JE9jS1he6FmEhDVFYNYlx8OsL3Aq7u--V7vGhTFRDYTjwJjV3LZ0_5tjoTvoNVx1w",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJi5fiG5S5yhQRZHBCs4P1GIM",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAO_eplUGXDpXR3x4Hy520sEbuTcxm2icJO47rZhF6Uqnl2S6132p0Nn0xjE0eQis6RRjlvQtgVqjckBApvCzApco5xq_7b-Vj-_9198CBUPSMcfah21MhVX7Er-Tnx4MrEhDLMrc46m_fZsN3KlQ3rnScGhTbTC5EBG7_BZTngeCyo_TmUYPblw",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Şerefefendi sokak Ağaoğlu Çarşısı No:83 Nuruosmaniye"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01094000000001,
+               "lng" : 28.968734
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0ff46cb5f87d9748f0bbcd9fe63e6112907b3df2",
+         "name" : "Adnan and Hasan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 401,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118129856437263287128/photos\"\u003eAdnan and Hasan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJiG4kmHKeDioimiqnp4YudQ8H5RwLEskIukPMvEhlFJIRlKQUIQTyM2n5sItaAsGJ2eHZDDeqKMEhqxq3sW5rUO4u7ljrOv30McqrJtqhqrD3F5Rz6WbNgDZPADh3Mbhdldnb6Eg_w0R3pa5vV_bdiRNHkp2JjCij9MbhxlkBzPEhBecSHL41g_PfRd1TUKj0GQGhSWi6juOjDGHgtPjR0cEAn_7k1BcA",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJj-aF35O5yhQRAFtUa5JU0Oo",
+         "reference" : "CmRSAAAAxgq0y2nv8hFjS19N1m9DtVRJ7Q-kdtcumTmFVAMu8yPJsLbU2cV5eCVCD4wp5QDLIplXqk_hQiZY4yCSYK88RVFL_eW1bMX2_nVZo0FA8y9H0alJX9hfXCmY-RILrmH3EhDHvrksXXRuURb1qa9Zu-lWGhThBZ6NQMus277y-IhCtuvGa1ivNA",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Beyazit, Istanbul, Halicilar Cad. 89,90,92, Kapalicarsi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0100755,
+               "lng" : 28.972723
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fb20979344d13514dbb70ee5c52259327483ca67",
+         "name" : "Armaggan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101686500340214677475/photos\"\u003eArmaggan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADjduFjDkkQTSmMoaRx3Bf2G7r2qrWd63EER2ZeFSYR85T_mtE-I4zjbBqawqC8PO01WuXR6OFr-FcRDFDZnq3irAko-P1rFE9PV93nO3ICELHvCDo055oXKGBHuwxO_8Stg5vM86w-VqQxW69EWHf32o66AcNm6Ag-b6BIMxZtpEhCX02CbUvKXpB6-jAJF_pbbGhS4BzeDtBr1-2mIZ3ZKX6tK-lgJrg",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJoYW3VpG5yhQRv5H5eMpRXUE",
+         "reference" : "CmRRAAAAEyLQBdFMseQKw3_fzJ7pgGgo11p8rVm2otbgMOZsZEvhgBOKwAxnk_Ic_PoLTTH-GcO3eiM86DgM2w-nQdGgO9nyqZGJNNofeh45BWH5_SZhVlN4K1u0ZKE3so-VydWHEhDnf-C4ewr4GNIezaT0Ite_GhQtfv5xG-adAYvM_NjcIL79WHUQkg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Mollafenari Mahallesi, Ç. Nuruosmaniye Caddesi No:65"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.010925,
+               "lng" : 28.969701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.01092845,
+                  "lng" : 28.9697616
+               },
+               "southwest" : {
+                  "lat" : 41.01091905,
+                  "lng" : 28.9695952
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "618e80aa3552d78b4a2e5e2a1641c65641532ddf",
+         "name" : "Ekol Kuyumculuk",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 358,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102144001638180152549/photos\"\u003eHakan Silinmez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAONMBWdPvb2ZNlhqRCpCWAuc7mtQIeEKZY2WnFgGQYCiXFItqGq2a2DL1Iu6PqVKvGizguddwm4VgoMmnA6CUbRlqCl7Bh5cLYC1h5nOtLqMat42mdpspe5CPSAv1ho6HBXoYWbwxIRFWt8QRyn1oM3VYWKhzRnndwf-nzjTfxIvEhDInUKiSjno8wKSZMdnMRDUGhRjIqQPupCq2VAbArtb_5B76DNZgQ",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJA53PsJG5yhQRdDr-2staLQo",
+         "reference" : "CmRRAAAAJv0PLLZB51VQNv8NQYXhDdCUa4lofeQDanMyx7obmm8eUK_NNC977lUOQ2eqdpjn5ljB8YauB4bKvX52ly3u5UXucem0XOMuZMB3nmyE4MAT9Eg0iwvlRa29akVSPlR9EhA0Z0ZZSqcLvi5MBCOrk2QIGhTA4KlfxD2LaIPvofM34JF93kQLtg",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Beyazıt Mahallesi, No:, Çuhacı Han Sokak No:20"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.01014800000001,
+               "lng" : 28.9720426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.01022575,
+                  "lng" : 28.97204525000001
+               },
+               "southwest" : {
+                  "lat" : 41.01009995,
+                  "lng" : 28.97203824999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7ac6fbfec6fced4dbcaf8d383968a04f032241a3",
+         "name" : "Kahve Dünyası - Nuruosmaniye",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116112102819010680237/photos\"\u003ekhalid almania\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEW6aRDi7llJ1FuTAvqVvj8QDxBbDG8P_rTUP2nDeLneCjup5ozDICVzSbDCFyTdq1d7YFv8o0EEuJ5DRElfPqqpDtY6cxwp5KMWtXYaodeXOgzwCzgfoNK5x6lGWeZcr-XauZaR8iBCAl3WZvTXWBELL8iw-pypEBEtOScqQIM4EhCvqaaH8-T8-pOEnSF4J2lzGhQsggeK1zxlNnRbhE-wIKD873BIBA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJaVCimJa5yhQR71IKnQEbop8",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAZsGzSPZfk_NcikkFrQbxDddpVRdGE9OWJ2npIqSbLZw_IHmHEoz-pqyvxuOwU5clJKuuTXJrNXjE7PcDNb-1zNNRAZADyw6rjQXtjzm0lJWdRaLcFNlrCdk-jPMWAXahEhDXYa6NDJjVbn1ttQ3h8KruGhTXEac9RCeIhJJVR5t__xherDiiFg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Mollafenari Mahallesi, Ç. Nuruosmaniye Caddesi No:79"
+      }
+   ],
+   "status" : "OK"
+}

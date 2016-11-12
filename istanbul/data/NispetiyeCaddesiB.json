@@ -1,0 +1,405 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQDmgEAAOtcuO397s8sZrMsETVYwAND4uPMMR3xsKkV7rxIa3s_4pvUZXNAHHi14ywOOc6tZum_wZxFtQyfkNvRwYw6HGszQTm1TJmN_YMMorqrk1qofeTa6lsxFSkTp63QrkRacM1pWrV_p7wprYKksoO6kyrSXTeW4t6xB2aI89dpOip04sr9L1BFLxAT8i-v8JXaKbYY2ujGI8cJNbt4e7A01PyY-zRuy6Vo0YVW1djC97EJYSA4KoEi6WhBgE9oWX-0yGFmdxodoq1xLGW1EK0MNVoToK1e3BoCzvS4LQniQ-AI77yi5yrNGluy0nKZRX-Hmh7IPTUg0vMhGAK2Kdrh7NBz4_0HsKzLhKBVKJFE4zVPkh9ZbvDyOx0GYb6lutTmZTyQJanQxnciggSZKxdC8eIW7nt0ameUuac0spMS9nJ62UfKNZfGsQqz5ACnaReDk_KKs8Z0zkEiaHhbggAbJzDnANW72iy9FQs7cGpTjsSp4rBVZKU44mmbPaBDRLOH0fQqGA3ZWUzrH_ppUvfEy9N1t_H4008VJBJDD-pR2TYjEhDVgg7Fjnx47i-1BNefBOnJGhQzryYvFAHuCR4ibhWuPY3lsgsCrQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076767,
+               "lng" : 29.027047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "16111864702c4735cef309a29e3f73e94b64ef48",
+         "name" : "Vetrina",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHffAaxS2yhQRlPCwAT7SHn8",
+         "reference" : "CmRRAAAAl0hjTawkiYrMMBmtfBLsRSybh_535Vzyn4NxEEtaveVjI-RDZ0o-GKtc1-JQmzIyET0BkeAmwMUWnrUa7Ifwzb3cZ6gQZ7sbSrbRoOe3A1-qAcrFljgojhTmjNXjtR0jEhDUJ2K9SehwxXIgHy-rxt1IGhQ5q5-fcSon61fnhU6Ze8X_Vc25cw",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Etiler Mahallesi, Nispetiye Cad., Akmerkez Alışveriş Merkezi D:347"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0773762,
+               "lng" : 29.0270279
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a09d5ce2dec4800cf3e6cd528e19b97a779ba0b5",
+         "name" : "Silk and Cashmere",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106061005869067645566/photos\"\u003eMehmet Mirkelam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHGNHfqrWbJ8H7jk55z0r-sg_KGfQp5MQLIzCZ_9nbOsNkQHkZ3xjxZ22QdNdfs5dJSYZl0sgGtY2vlVqZkvSLhJoZ_4UKubHVIsy1e3Xr2SDYAttiBKIpZ7DJ0oHuXfUZoUusSCqxXhk3B6wORvXTkBkI_PYbZtkZwbISgsBk9HEhDR1gsC1r7TE5RWaoKkuRmfGhQ1nAJ5A-4x22accOI97-ckb2uPEQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ9-dbN3K2yhQRCDVeSr3EY0o",
+         "reference" : "CmRRAAAA4CPt_1uO5z_ZVhrhTBpuZxU8ZWd3Gac4uwui2V_L9tzZCncuDpGuJOPY4ZKHaSxb1FWznB8x1IS0IOUy6A-Of9EC84I2lczBTcg5EjwAyPKHdjRwCYIgKRr4fsHvfnvkEhDmzl5PP_CciNokOmtXC4l8GhSaqArFQ170zf3QoPmKKBXfArCQ9g",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "İstanbul, Nispetiye Cd. Akmerkez İş Merkezi No:203, Etiler"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077254,
+               "lng" : 29.0260822
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "71c1c65d63c14607100042e5b004fb898651af9f",
+         "name" : "Zara Kid's",
+         "place_id" : "ChIJJ3m1XRS2yhQRIjwKP120EFI",
+         "price_level" : 2,
+         "reference" : "CmRRAAAAAtAD9Jsh8hoybxVijH8-ve3Kza2Bofe5NJkNnTB8ZPUKVOO4ifKiYNcTf_eLkUn4jBWEL-1N0Upv_SGxJedBr9rt6z2NySUsI0gRcGS2wszvhOAdQkTWqZE6Cl1x56HZEhDpcj9EppWsv8kJgxfGuCMMGhTb5MdEHZ4H_d8QyMystdYAjwdxfw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.07720399999999,
+               "lng" : 29.02553099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b15275fb63eaf24294b45442b089bd0b138ec1ef",
+         "name" : "Sport Works",
+         "place_id" : "ChIJOcRs9hS2yhQRSaPzE5fJO3A",
+         "reference" : "CmRRAAAAXPRzL8uOkKCP-iRhh6fEQ94bAkDlxjI7fgmrdPVVBtuLA2WmTc3SzwmBbKE744Dr8l-x8olSIxO6U0Xiy-sPPNMr2ieJruDLhmoL8Fyaf3veg6F2ndzoQ_mVhjSuoFeBEhAnOi-1LEnheJs5RrLlBabMGhRZ7KSVznEU5uiIK6zhe7k9vToWAw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076767,
+               "lng" : 29.027047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "63af86286a987a8df3a14cfc5ca863f8b3549f0e",
+         "name" : "Jokerland",
+         "place_id" : "ChIJ3_wG2FS2yhQR2rxhgIePeNA",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAALjzdmp2aOc9QtOagS3dl9FnXfejTnIg_JCSxivoqQld76FI-og0FDKBYbq9TqWcdM3O_dtc5gx2P4u4xuBfsE-Pc3GTPFZvQ3Nc0Gno5D5puG4i-IAjkQQtGIRQmEVwhEhCXO2xaIH2dvvSHKuQGbk4jGhSDc8WTSyGgA56eYYPM4IjdoWGMXA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Etiler Mahallesi, Nispetiye Cad. Akmerkez Alışveriş Merkezi D:445"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077164,
+               "lng" : 29.02583199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9499c99842ceef5475957cb62a87a8b48860e9fd",
+         "name" : "Park Bravo",
+         "place_id" : "ChIJWZksWRS2yhQR5jLrYKl8_LM",
+         "reference" : "CmRSAAAA-k5iEoe-R4POrbXZYSAmzTZb_MPiRZAAWtdNkfqZgRJaGylXvL0ww5A7UF622bFaKHa-4zb-X655fBf2b2F99wXf3cCEaXjDxjag--_HZlOEqVgT6xzDJW_2lO1JTmcnEhCTrS5vKXqUlICFudIiGm1pGhQrNyaUYrYYsHyqNDBdgUN0CrsrTg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.07723,
+               "lng" : 29.02793
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "39014ad47020797f4145125d1280ae45c48759a5",
+         "name" : "Nike",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQ205GhS2yhQRDLuyPcun-BQ",
+         "reference" : "CmRRAAAABc9VQC1SVDWzSs_NBuxssrMzkxgw899hggSEA3geT6Du9TjCPMNtLE7bYHw5v_egFRyH-IZUYoLoUuYAbHtY_B4mesUmYqYx8d0kXQywPHge0pPt_ihlWqQPP5SpYn3ZEhDHbxtHec3IQTZuks3aPesuGhTqaQ-uFLwbIW5uZZsE3nKrMs6CFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mh., Akmerkez, Nispetiye Cad., Beşiktaş / Etiler"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077107,
+               "lng" : 29.02678809999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f45d5058ba3dade8751214af0247d264c6f3e910",
+         "name" : "Mango",
+         "place_id" : "ChIJUxuUQRS2yhQRETXRiyQAZ3g",
+         "reference" : "CmRRAAAAVyuPBZVjlLys9U0Lqv3rBhl1xz6XEpXaH0eqVY5rVh0YSoYfOa1slFvv_qRx8562QSDlKisX4vpZKDq-abuGQ_1q6hq_nyPKsECJ6mJAcYK-faxeJU8YTkleI3Bvs-BEEhDQsjWd-56Y-Q0Wzya7kkBnGhQZ1Xcg2ORciFDAQyLQ3Oxmfnt0vw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076767,
+               "lng" : 29.027047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7d43f7433d5999094cab0c5d93e10d4d61d13600",
+         "name" : "Pet World",
+         "place_id" : "ChIJHffAaxS2yhQR3hYChm4hs38",
+         "reference" : "CmRRAAAAlhVj5N37cWZiCe9WrvGL9TdHOkZYa9FKsM9gv6kaxr2tE27aUhE2rO9MhY2tU8XuSOAgmh-5o1QTY6QbSXLbboxb_AGjDdHViPCXWtlV1XmxWJgossE7lWTSfxqnOsA2EhD4JFhDz0hZ0DowmosK3upcGhRKMtmctGN0__z9uks9cFfOhXKNxg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Etiler Mahallesi, Nispetiye Cad. Akmerkez Alışveriş Merkezi D:189"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077256,
+               "lng" : 29.0261441
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f333d19f5fb3d70abaff0069a6e1292673a6c9f0",
+         "name" : "Oxxo",
+         "place_id" : "ChIJ4_E9WxS2yhQRmXSw7XUPyTk",
+         "reference" : "CmRRAAAAD8oSZo2XvjHRZZe9DF2u5dBQKU7Shp76x30i0kENoiB86jl8P4hXc6qGrl8Qrhc5OxS5a4uBzSkbkK9Oj5mZTMh9GbuntkW82IJIh1HVckUG8N75lblL3u5NMH8eumTZEhA_SDT6LodepJ-rPNvSNSB3GhT0ocv1jrsiyPtt2no685864dB9pQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "shopping_mall",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076767,
+               "lng" : 29.027047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1e51ea96add876e70402b4f3a0eb16358a122bea",
+         "name" : "Tchibo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116904947568295961440/photos\"\u003eOrhan Toker\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABjYJEDBhXtU82wOGEv8t3JZ1xwe9C5n9mRJz7n5_JFatzxFXXENbGdfwB-CXEWT2uOjT9gMnsPFry8Ene9e__-KEhVpFcAINDv_X2Qt9ks10tsmJKI1UsijBihGG9W6dEUOQ_QsGjatXQBw7DoI4N7eXhpEevHAteD5X_T2iRtyEhCZNznBXQaLhNm1Nedn0magGhQ6vFdhervZEA7BhBfi4E8TWapetQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJz68iKEK2yhQRteqL5j_U_Yk",
+         "reference" : "CmRSAAAA0f4B0aLerUhlyy_PzJY4DpwkxW7g_iX0oKfdQyqXB7r39nSDiOMYPsD_8c8axkryeAf1j7jExXjlcAwIy2pVdVc6lejE16rKxwLcBmyPfaFO1m8213t-Q2C-kyqdYKr6EhCHFaEdDb2huQyoVT8S3B3AGhTQj1aCcDehwwlk0GmTP8mre5YidA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi,, Nispetiye Cad. No:56 D:305, Beşiktaş"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077198,
+               "lng" : 29.0277169
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1d8f7c3e9f550b1d1aeb8330c5f513fafef3051a",
+         "name" : "Mavi Jeans",
+         "place_id" : "ChIJJeA3FxS2yhQRNL7ZTfO_JKg",
+         "reference" : "CmRSAAAAUH0Mx0bYVYywsNsbsMe8iY8SbPKXfSL5cLXOVExTjGAKU7hY3xrgcva0Bfxy3xK_zGxQlEE834SV6qssfIuass0DWaqE5NsVScdQK_kH5glXa5sRv87b1SuKcaEOQb36EhAa_Wy00A4AaDs35kavOVdcGhQTlIVMgikSvEVKcIlKG_bAhO87dQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077161,
+               "lng" : 29.0258651
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1771224fb52cf715cf6fe04012d5c73b359452f4",
+         "name" : "Acquaverde",
+         "place_id" : "ChIJBdXMXhS2yhQRynU6QXuLZlc",
+         "reference" : "CmRRAAAALE6Gy1q3Irg5mm5yd8zOy3T6L4CyDB6urieJTvQoBKx1EeO4fCi9pxOmF7FfcScFHwZJqEuksNGTPSa3iqqvo-iY7AlkIUVZj98MdjvisJoA3GTFgIQ3Bsa_pEw6zaqLEhCGMxZMHSEgl3J-4g756gUnGhT-V0S3Fyb0z54xG2YvSTkG3Gxj8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077167,
+               "lng" : 29.026066
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2e00cc574045d81852f5aa3fa2ad7106f8f6adad",
+         "name" : "Dufy",
+         "place_id" : "ChIJMU4UXBS2yhQRa2pLggfGsuA",
+         "reference" : "CmRSAAAA-1M5fiFWH1j4uinniUDnfX75IxCUxWLrM03B6hAs_F3BqygyhzG5JHy11x8I3G8YVQT_foZAtxFq11nQwxiUjSFl8SJIW40sQ-i5Wk6dLvbjoiDcH6fq4lMykrBeM-y0EhA0wrATJ30erq45hfoFx_uWGhQSONykPeANBhMmiuOljQBvt9A5Iw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076844,
+               "lng" : 29.026983
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5f2acb1eff3a37f3a3d0b8f11dac330a84e2c9af",
+         "name" : "Tefal Akmerkez",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115617315497440307260/photos\"\u003eTefal Akmerkez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMisDinbU0OTnSpucf0EZ9ikK5ws-IcMjsXGyRphN2bAL4_hXnq08aefHq7u_Fa3x_7EAL_F09R2EAghgKnRxwHoNBmofpTTEhf_fLT1Zo_p4P49dd5sWK3gC0dZaJX2322uEwjgh7Ku0lMr__w5HUxM9kdLk3AymVHTpoMNk4B3EhCFO63YJMNJ7XDnCOPm7-EXGhSoTtUSOvxiTl1oJV0yHuhvlz8EcQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJsUcxQhS2yhQRR5QEYSMUVo4",
+         "reference" : "CmRSAAAApuJOp0ddaUgN0sqPKX84phbBNM972JWuava5-dm5aQX9URh_wqkiFrJIyXF8S9_jWRlNKKLWyZVzXdvVo0bcjak5pKng5T6mGKJHJgVHkep9ypeoJild5G_m4T8-yrpHEhAFE9cd9CJM0COx-1XVCWVVGhSzv_4gTN6e8xPCU4p3B6eq4mrsoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Akat Mah. Nispetiye Cad., Akmerkez Alışveriş Merkezi Beşiktaş"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.07724199999999,
+               "lng" : 29.027319
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "754f97ef1cb799adab389b38e927ea8e387ad4c0",
+         "name" : "SAMSUNG",
+         "place_id" : "ChIJ__7KFRS2yhQRfd__hd-cRHg",
+         "reference" : "CmRRAAAA4BjSmhcjWBZcJ3IMrig3Lb5fZp_oR7IOh9U58fzM_B8UY4FbML7tOUeY7699mzeRBfM5DkJr-JqzDv68sm2DR60P-5JwDK2q4x3g4ek8RvzGtMxQNOSmw9qnYTm7hH-IEhCqrJe9zDBmwwgxMXxu6N2hGhRauhAlrExyyzCW0TuaP6V-HYNfKw",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "SAMSUNG-Akmerkez AVM, Nispetiye Cd.Bodrum Kat Etiler, Beşiktaş"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076767,
+               "lng" : 29.027047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "495e4e9f3cab450e2e43ce7efe4748b42d925e0f",
+         "name" : "Teknosa",
+         "place_id" : "ChIJt61WaxC2yhQRHSmLiy12Klg",
+         "reference" : "CmRRAAAAfN-oQfOBgVAIPI6fgkK-PZj4KQR5jRUQumxIIyQyEnmARPrUN-xxAoc7aGIl6shDrcIS6ZgV2VII1kWMKLdbsaYqhWkIDm5xHLF7dfN4bj5zQcxoqjyYXPGUu0E7nLzTEhAA-gdCA0iEixeCU_LkyZXCGhSbUMe5o59TIOZj_Z-of4a1GAhKbg",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Etiler Mahallesi, Nispetiye Cad. Akmerkez Alışveriş Merkezi D:125"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0773141,
+               "lng" : 29.027775
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f71eee5c9de6e1ad0c564e2344ba7f1997c9a1fd",
+         "name" : "Assan Gıda",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtfi8Y-i5yhQRYnWntiH5wkg",
+         "reference" : "CmRRAAAA1a-PUwKurSypdE0-0z9MPr77PmT1DBMb0LoCV3nDqpN45Yi9zYdIttBdg3yTyX5PBGrsjvgjVkTye6etx0fLlAquuBSC365bX_gnPinKi8PNr1g2D8uN4qU7soz9BU6sEhAdw9roksVqqfzOM8rR_2bPGhRXEgY5yLmdFUW3EEy6PLrjor4KMQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "5, Nispetiye Caddesi B Blok, Etiler/Beşiktaş"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.076767,
+               "lng" : 29.027047
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6a262337d550633a61007ea1b3003f555dc38817",
+         "name" : "Sevil Parfumeri",
+         "place_id" : "ChIJHffAaxS2yhQRKkqu7Lh7G-A",
+         "reference" : "CmRSAAAAwIXpo82fSsHWjvJZIP-FeEy2jk9rsXiq5ME0AwpKsBkgN2bunfX925JQQ-w6s5eygvupJ97KrvrFKM1vkikY_JZ5fY8RCzvUK8PiOBUhT06mxtuylbdX3RQo9YNh6hlSEhAb7gH1vUNwMpSS6fgmBMqMGhRsDBU1dw3zJWMp6ki2HwtJl5GfrA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Etiler Mahallesi, Nispetiye Cad. Akmerkez Alışveriş Merkezi D:221-222"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.077226,
+               "lng" : 29.027894
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9f4c19fbcfc4aa3dce7d317b292e80972730f841",
+         "name" : "Fenerium",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106061005869067645566/photos\"\u003eMehmet Mirkelam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALXnaU0VSAi-TjHLkElcJSf6VYqV8Zj86iWYtp8AI9Daj3MSAsvuGfrHonuGfuBufqLKM0rLaHr1grD-cM-ADtNTY_eSB__F549Tmk1eLqHOPxyZZ3jpeqEqAcTdloxI_6aXwcSoTvSDRk1luMEgQJyisxbLzWLY9i3t1E8RFQtgEhDLdmmwsZIsPwmbD_2eR0Q7GhQu_YolMDVqZL97rjkcw8CPN_Bsog",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJq8sXGhS2yhQR_JQwb-iHN0s",
+         "reference" : "CmRRAAAAdYSpVAAj179RF4eEZfGZmxTi7_AQkQ1saBYGIkRNfzk_pjKizStHZUD6VqK2881vkck8E1ILD5R512qlrXdX6HXmA7l6WL_WJglKdjyg9bJnErRt7yL4auPM30VOPi3oEhBHoxRE9FhrXULUEK_5vlTwGhSM5vYzLdyTste4YG5zrXundI5fgA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kültür Mahallesi"
+      }
+   ],
+   "status" : "OK"
+}
