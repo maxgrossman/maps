@@ -1,0 +1,686 @@
+ { 
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-gAAAHzqM70Qj_mDNqIrLOTtc1BDmTA3--0cieAGpAF8aOeKkwcAAOWbBz2mHqn_fEflKi1HFebozp0x7vnUbtVCetcNvjEOgK7SuDIBcC2n9PHLNTvg8dF4g4d9ccAZw3mFxZe4xlh8PVKSWu4UILyPTy2QHHCEjUMDFVg4waMTRyPtr4fWW9jDtrAcPDSes6Zd2ko3kH7sQ49DvhIttL_GREpp0i47A3K2XNA8X7-wNd6ku8_5EFAP66XMWL0w2E_yWtanFyXqDKFBEOJ7lVVtuQ7QPDSgC_Xgys3V71KKQB2cEQOYB3PUs68Bs4vrG8XMFS0FUf_OxTmHmnLRWkKiF-kSELZIm98eh59QIk2RRjAQV9waFMOq8HlI3oGH9X5iB0Zye1r8vCzV",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.034833,
+               "lng" : 28.977949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.03486405,
+                  "lng" : 28.9779822
+               },
+               "southwest" : {
+                  "lat" : 41.03473985,
+                  "lng" : 28.9778494
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "64325e00805e6b215d77d9d214ed7c199a84dd51",
+         "name" : "Aslanım Bar & Bira Evi & Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 528,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101505831139100885929/photos\"\u003eAslanım Bar &amp; Bira Evi &amp; Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGyLYzQx-wXcUQ66V-f6R99KuASsAszmtbTyVgH0NO_xRJmVnfShr4hV5MpHa7k4J_3PV59y-9Go352V7KhpHgo1XJfSxshrmAcS2_xuuQMWgSavU7ttPC2YULfmcpE8MAYjbwTDEIomwgNEv-zRpjrXduHCUMP-MbzN5DHBHxyeEhDjHey2TKzjQA0BWTpLABeKGhTiO9jzpeCvsP7HLS_en12c6Qcl-A",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJoWrg62C3yhQRBGE7vJRI6lQ",
+         "reference" : "CmRRAAAAH0wL2P8wM0X3pFx9N9x1FCBKvCTaO2VXKJ0WrCm99uPJQ-S3fKMJZF3SfoZYccEX53b96qihZmj_qYZSQs5oMPjnp6vQE0Gu60geim0sq8KMbE0P6sREpX-Uk3zoN1LvEhAKWFhclSlJg9sp7w0rsxpkGhQLVAftVsY6QmVFpgvHr-dviBzpyg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hüseyinağa Mh., Nevizade Sokak"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.033655,
+               "lng" : 28.979051
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c91d5ceaf85f3e8000e0d4ec08927a8584eccb57",
+         "name" : "Sok",
+         "place_id" : "ChIJLzXe_2C3yhQRjNKoTkPbWTk",
+         "reference" : "CmRRAAAAG-NzwwMnMUGgig6c52wBp_Qkz1-HkrOLlWzNclaoJ5E9fwXugdZnI3grsbVfEV9ruu0mmIRgeMR8hr0dHUvJwEsEOg11l9esis4NxLN_7o76mqbgOakS6uX8lO4W6xp7EhA1I7JAT-f7g1P8DuLBxQsxGhSBiFM6ZbsOfhK1DerzrdvpHUv2og",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kuloğlu Mh."
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.03394249999999,
+               "lng" : 28.9780441
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "96799ac1347dcb47668e9f98f64b5417394443cd",
+         "name" : "Çiçek Pasajı",
+         "photos" : [
+            {
+               "height" : 1192,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105617374146128490049/photos\"\u003eahmet ersungur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANeMKxtR4HyXIafWrgBEAJ_iQ31ypk0D0MzJPTTpSSP7lzZr6UuxByDaLQJVmGoYN6nyNS_LxnXY1QoB7nabYWZW3sXLELCjEw290y1oW3FCSr4k3vhF-fOofCjSYn8sE3ccYO29sMZkZoxTKs-n3RaV7rs1x84nQDu6WQynK-awEhAgu69KxRrg-78UnIWl9RZHGhQwGrqz5_4uQoOT0HnCEfswOHAbzQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJGfY49mC3yhQRU_-U8XuSc7o",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAjffvHlGIuvrQcyl95-cyRyCBePB9mxPmeA--61sOCJhw2l7Zu-Z_dxZOs-tULqQRkI1CL9zZYxoWWFe4aDu_Z__485qrEoVmehEwis3aOgWW5iF-rb8bTNFDctd-vEmiEhDKpbUDgbxFy6Ck31n2pLOEGhSHnHb0wrQNUDLEvXr-ArvEgg3z5A",
+         "scope" : "GOOGLE",
+         "types" : [ "department_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Hüseyinağa Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.03505390000001,
+               "lng" : 28.98140759999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ef22eacf1da4d44696f1d3ff3c8ea45880e72482",
+         "name" : "Ali Muhiddin Haci Bekir",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103941947581766527161/photos\"\u003eCH B Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAqo75ao4z2ujTQg-QUGAD5_G53HPBsXau772asEyQfi9wa5Dsdx8aqBvFmZiIqkf6Vbo__JTZ0NUHLM8jDeKISbltQOjL5bMbt8-w0SP1kZ_gL9FUy14_2Ydtx_PN-xZonFG341WNhqSBBr95fXrXLgTnMvBuB9yohfO8XB_sg3EhCTkrPFol5kF_fAgpPdIzdtGhTfcMmy0g_Q29eapEQG2ajzBQ-F7Q",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ1S3LWmS3yhQRY3ecaDdaldI",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAX53kqyE9Ezv4xsYgSpPfvkS9msPvyP2DHHjkqK8nefrHknNef3mgLT2dIbVntQIUmT4FsKvoshJDOZeCmNVH3KOoX59lHvPv7l6g1W4VR9dRqHY0Bj967qHzaDKf7FHxEhA3aKWyXDUDeE8OzCEznEHEGhSXga5Hervoif659I2ir3Lq2pXQ3w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Katip Çelebi Mh., İstiklal Cd. No:83, Beyoğlu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.034838,
+               "lng" : 28.97795600000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.03487814999999,
+                  "lng" : 28.97799279999998
+               },
+               "southwest" : {
+                  "lat" : 41.03475955,
+                  "lng" : 28.9779372
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a6ddc275c6df76e9c7c68bcfa0b815b2dfed4b45",
+         "name" : "Aslanım Bar & Bira Evi & Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111264725225342192123/photos\"\u003eesra ataş\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ1_1tEihZlLpU3ajBMSrP-MIJ3GgAf93-R8r0JiO02sMfwr6bmB6IX-ZRmD_QumeMlx39j18WNIlNy890EQNr43aBIprEPQZVo81jFDFSjk9oW3Ycw_UBxQM9dMz72Vl98heYUDPoW9HgrIruI4wYe_-tPX6mzu6XF8qN2McIFrEhCUKv5KdxwkhbczmIu1Lqa1GhSnupBuFRptBrXy0qNkdjXhdAl2Vw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJVT1-7GC3yhQROIJYvLWJMSM",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAvbHxzbQbqsVqGoZqrWGZKtB0Ft7QKc_Yeg9y8ou_DiYws58HsVjq4VJvwCJV2KMl54I0pDAaqBK1ojq4NW9txF6nakwi7x587gp3oIMPtok3E4WjO-UZIgpoav6UWXhCEhDrZV4JM6I5EHxxRt_wNwqaGhRr3QIq-8UZbYfQ5CCUuQmb-o3isg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "night_club",
+            "liquor_store",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hüseyinağa Mahallesi, Nevizade Sokak No:14"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.034448,
+               "lng" : 28.979676
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a55bc0318ed6c4060849c93838fe0dd820ad714",
+         "name" : "Mavi Jeans",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117856375812970248124/photos\"\u003eWaddah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFxmGHasJ_6skyDBRnAc9JqCHqSbJ9mYbODWx5Yns4zCVlVmmHHD9AAIo9vesZQlxoFsqGiW8KXSQ4cs8exZGym5WZj5m07uHiXWOdMQhcN-sgS8oThb2eVanI-LXyY4IE6IsnP2EVWb0uL7fdHh_c-rpyf-KkZcclu_Hiz7Oxb2EhDqqZrvpf1cWn_bwuJpo62mGhRWPjBo3JYP5oSZgqVotRhFdBmUiQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkypPGGG3yhQRdCB-XV1hpvs",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAABRbKAm1l_813NHlRKzSPMOlXkA8zp-tYJLvGy1QM9PWnwhKTcJ1XNovCkdA3cYoA_fTj8_RbsLvQXo0pXQ00_IFEYj5doUHU444L9rxsCA4t8CwL8XmJmNd0Om6UY-z3EhAw3wmGJxvZzXa-ogPcHMnVGhQCoUsNH55ZIM5IogxBJm3fzuI_TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kuloğlu Mh."
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.03461999999999,
+               "lng" : 28.97731999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0346764,
+                  "lng" : 28.97735664999999
+               },
+               "southwest" : {
+                  "lat" : 41.0345632,
+                  "lng" : 28.97728365
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d38c9f3bff13c08d7108717d9bf144aa833f398d",
+         "name" : "Abbas Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105199187633229535027/photos\"\u003eAbbas Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPyysuzAP3ze6mzGwu5YDM-Rk9dkBMjx3LldWRgy9mS2wDPW6SU2lerUKn40bczWzxhPz66MS-vZxXy90yvkuOoHstEbjIhna7g-dZ8QMX1_TF54DSWrUueEd62IXz_IGxSOa_ql6cVpqqM7PqNxhzHSs_4TVBDC9e3-wjnUKTmoEhBwhn6WRp82qw0p1HDYukMeGhSvqzwMo20UqNvQG6FlLKnkeoFj-A",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJ73ITkmC3yhQRpbhxxEeLRYA",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA4KfFIvVp_Q8BqkrNcwtbrhxChHk1glM0W_33R9yAIDN7tKwe-3R4oPJWn6Z_XI_TppzuKOznYq5PRYpq9JyFXSJaClgOLT013AHFv-GOPIC9vqDSeshnZtQ1tk_2YNtvEhBe7f16fpt6U52371X4BdbzGhSyKyBEpkEY1G5GnI-mvlbyqV_sqA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bar",
+            "liquor_store",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hüseyinağa Mahallesi, Nevizade Sokak No:4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.032387,
+               "lng" : 28.977957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0325196,
+                  "lng" : 28.97799675
+               },
+               "southwest" : {
+                  "lat" : 41.0323428,
+                  "lng" : 28.97783775
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "851e9c13b0ed4e10ad20ec8e78aeebec558f1b93",
+         "name" : "Litera Restaurant / Lounge-Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1027,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100579647270275453015/photos\"\u003eLitera Restaurant / Lounge-Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP0a9hNjssJAzkhjH7ZtvKS_fKYP6_IAUjPYqGTs8JebINC3dbxeHTg0i1rpdO4UAfwfyDM5-rykZNJNLLEJxMwV7PfuMj9UB6Ax9EXtewXK-Sfj-w95TgiHOJWMR8Kjk8GbmvHu7BNzwe19To-YSJou5viJWNGBynqpceKzTex3EhChfcg7ioYFdl4BCpb2by0jGhSAjqGj51xO_LJjqRLcdJTwPGBHwg",
+               "width" : 1026
+            }
+         ],
+         "place_id" : "ChIJPS9ROWC3yhQR4lQdanFJ7zc",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAPfhITtwx7PN_-Ni-DJQVDXJpqnxQV3b8cHNmiDo0Uf_LfCbkCUQZ3XMpVtL26kzToi4Zzt0QCb13eDif6ojfxlkoT7GxJAwAF7k3-_NhPGxNXv2NxcPdtr-gu72cnwOqEhDgyDExbk2XuU1IOCXLZEkfGhRvB6Pjgbsl3aphlQvEP94ZpnB02Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "food",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tomtom Mahallesi, Yeni Çarşı Caddesi No:32"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.033026,
+               "lng" : 28.97747
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "98c9992af8ffe6c912b0acc519701d2964c9056d",
+         "name" : "Garderobe",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101277349567738732886/photos\"\u003eGarderobe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFk6vn8IZtz39IkNvzBDm_EyBQRwwYncSfawf6Afch5oL1-v71Up87j1iWiVjzXDbhKRoXF129I46OBz5iryoVvQUCly5OHBvBF0IQ9WQRC2MnKKxohS-Pmw_DIV940Wj5Yh-ZZastQsRgTlVUmcjOd7k29Aw4ll4r6eYLXevWPyEhCwj5LfTPrF6deM6Feye_IyGhRWancy4U_1B8MlPWW0ls07dNR8sg",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJiW2ZO2C3yhQRZ7l-bqFgi1E",
+         "reference" : "CmRRAAAAGiffvUEXPgk6TKG1CqasJN-6EtEcNVgmTxBeB43i-vWePEM7kw1_TNHWPPE3k2UWzabQoHBrJVoEtfbWfpkb02xT3URZ15x61LHBKfcwu9M7pyExToF5IYs-5pBE74S1EhDSvTUKTsECCg4K9BQSpSjgGhSEtcqM38V6jhPrbXY7WnO8H23Cgw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Tomtom Mahallesi Yeni Çarşı Caddesi Demirhan 38-2, Beyoğlu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.033342,
+               "lng" : 28.979455
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0f534a9de8fd55b64a26a9546ee3bd3902d183bb",
+         "name" : "ROLL",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110463328815912453155/photos\"\u003eROLL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPtABiUaUjGZEVMa36KgwW3AnduGIZYqHIFzLukQjxdDOvs-7YU3AjTqyPTrjxO_2-lv4m8NwRFDBPM1NfnbTgDdRwTPRYKi7QImj0taUGG6zm--4UStO647tsbOCggWLJyOpYrn7Z-Lm8yawnmk8r8y8RQ1M6DsV2iyx1Fnpk0SEhDhJiQPk2ZX41996BhAe2g6GhTdCSdslNQTKAa6F_ZKA1s06qY-ug",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJu3SEqWG3yhQRSR3iUNaK-r8",
+         "reference" : "CmRSAAAA8B7_jjdaQWGE9rzHLpGAQR7zJ9zzWJkwzT3qQvp-Y6FpzfdrVsxaXAdVluA473ussPviY8KN8STP2Nt6CLfG57VPwYC-zlI9rquTUvrs03GqCaOOmAAdoKMek4H4a2dLEhCJTSivBQio1sThEIZN2s4nGhR3a3tVjlIKEP2s8axYAB35jbFLxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kuloglu Mahallesi Turnacibasi Sokak, No:13/1 Galatasaray-beyoglu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0340739,
+               "lng" : 28.97853700000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a0ac31594b88a3e6c30697b252d6c6db917c7a42",
+         "name" : "Çağlayan Kitabevi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNy7K-2C3yhQRDQne3YNPBs4",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAzYO0EaK_DzFEG6BFKs54ZgzPrNoUaXD9N6h4YfbsEewlkZRkfMCvnGS7LTbjHSZuCMiNATEVHusQRNicW_y3YI-RFN115RY86pIdbqZ11eaJg0HioUHDYVezzDFaeI-hEhBWk9iN3sFfYRh4_-qmGTn8GhQSKTKF3USoOjZ4X3J7JFS4aDwDHg",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Istiklal Cad. No:76"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.034971,
+               "lng" : 28.980152
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "119ec607527295aec39eb62faaae647f287875d4",
+         "name" : "Deichmann",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108949080457626905871/photos\"\u003eSaglikli Beslenme ve Fit Yaşam Fitchef\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE3Jvy3DldvlksrqRU00Gr5210DBmpQnFx91nus0oS2dgWBrrB3W_r4A2xN1IyjvRw5o3PbWIOYSMsGCKAyLvyNse1JfHt7VaF98jJ-BJ5uSD58Xw6aEheATkFR-Tm265-XVg8JSztUX9X5PVPdOMCBItMPfpGTZrFIN_gCNYJ5REhBNtcnJQgzOheu0rrl3GDGOGhTwhIBzVWXN0eYcAvhhVLOnBOPvwg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJoQAiPGG3yhQRqN1yV-6Nu5k",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAAFu60mjHhXr-2BVyQuhhzzPWDVnP458ZFwhzy1WrnAiChYmisIPHnPf7eyXhinGw_EZXvg2P3qwe_lknqL-grh6yJg9M-mguqK5tAB35bewq7TuTm3DemuxKb59fML1w1EhA6ogZpcT5QEOh_J9XblFdOGhSbvCGuhLpzQmlWPzjfnbdGPOTJiQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hüseyinağa Mah., İstiklal Cad. Demirören İstiklal No:54 K:106-205, Demirören AVM"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0342192,
+               "lng" : 28.9792294
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "da2a4ab62b75fb67a17ca6c031739a797b443183",
+         "name" : "Oxxo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 852,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100421045377463476507/photos\"\u003eSalih Paksoy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFWp3UBspGrUanYoB0iCvr1a48c4Igil3dEsNwMtlW15stv4qjfILfl_d4gHLKsIitxGII2KTrP14VMv6BoQyGFLx8npM8sGH8scI7vGu_798FvxDFFvOmsUqNxuoBLT4jStV2ek8Tryuu5Zl54RFk5fKOMa7LTMKRPhZYSp5tCXEhCiziRzlFH6DArYaBlQ5vK-GhTZgRfvgNDb5bWfGVgiM2LS_U9FwQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJsRSC4mC3yhQRXuoc6YMywjE",
+         "reference" : "CmRRAAAA87TjU2wqdzGnbVUp_RLGhusyuB8eaRSfvTOm8GM2Ln_Ccb5b1E3JY574qq8AY1cCaytyAWJY4AZ5VQdntUJXdrsDEATM-DaXZZdNrKq_eJdVS8Gw68__kDU7FNiTlFV_EhCVxa5bYrHQSTmpz0W_c8WZGhRTGilPbwD6Cwoanw00qi37yy-Mrg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Hüseyinağa Mahallesi, İstiklal Cad. Luvr Apt. No:64"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0346048,
+               "lng" : 28.98030650000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.03476904999999,
+                  "lng" : 28.98034305000001
+               },
+               "southwest" : {
+                  "lat" : 41.03455005000001,
+                  "lng" : 28.98019685
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c6393dccb0907e6cdf4d3a082f8fca3421d2752",
+         "name" : "Saray Muhallebicisi - Beyoğlu",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114470280014358461474/photos\"\u003eKarolina Gieraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEdjlmOwUTQxvKTw2Fv836FIWDm3YsWJQ5R8fK7Lpb-ThJwNgjhLBJbWgzsxYl6eaLIqb8JoJmLmNg0Bgsm45SMcDwgKP4GQaK7osyEzHI8dUxcZrRpv_J-RstF1KgbEYWh2QGjq79TJOermES2HQ6EYHdexWJxj3U_eQdgHH0a0EhDFkZ0wVSzQ0qHi2LUky5VvGhRmkmTz1Kj2NIQ4u6imUzg2f_ry0w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJa2gWPGG3yhQRJLGz4VZYQOM",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAfMMmBhteVOQLjB2FnCM1y0mzodAKtkLpDvIZ1cT608Q-LouRaHzunY79RZ0qZ4bq9vOc5p-DL5bLTish-8mq56I7r98tENFtu74Z085ZddQ6EO1qXXbMsTiszcCDQdg-EhCGNDfD_MREy-w4_VZuG3jFGhT3bkopZCMSLOibNKuBn00xblI4ew",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bakery",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kuloğlu Mh., Istiklal Caddesi No:105"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0322587,
+               "lng" : 28.9779051
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.03234674999999,
+                  "lng" : 28.9781349
+               },
+               "southwest" : {
+                  "lat" : 41.03222935,
+                  "lng" : 28.9778285
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "696505d7d54bca39c49a83368b84e7eafdfd7d9c",
+         "name" : "Robinson Crusoe 389",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102299996651199076879/photos\"\u003eBurak Kebapçı\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOgO5G0vEh5oAcowJ9rTisXlbUUNpaa9J2BriB4WgdlE2y9rhRjJMuBRha4AjgrGTCaaS1WcmrO5pWzpEe9rpgRspdWL2ZYoqrY5GYJJc8iU2tbmLz8PCo1r8VbV52QNzOMkrXPfuNSD4PAjkXaWFQ9Y7QQH9uTpQku4MsQKcFWwEhDzwl5IMXCyGydIq8F7iYyOGhQFoefK9nAdoNoxFzUfTHQr2JZL2A",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJSy1VC-C5yhQR5pzaT6_vd-8",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAVyQgp4G1TsW0AHv3_ymj2H04lNIZM8O_0ZWYT5tPboYn4hnL4Xfa6tKF2QePU-a89NPOeXumZe9150WniyCnnHcuXbEx1My30rnqp76Ck6k86_b7W-MzRwS9F2BBZyE6EhB_GEfaKzNrS0wyI2KqNkDnGhQ1Cw_X0qkkcIHFTI8dA21NBXx3FQ",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Tomtom Mahallesi, Yeni Çarşı Caddesi 34 A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0339,
+               "lng" : 28.9784
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a9fb92db52ab6433f8428f878b3b5f993b09ad17",
+         "name" : "Cetinkaya",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108393064737986516277/photos\"\u003eJoel Irish\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMq8y_ll9UL1Srz61SI15DsIzY8cM2eUoXSlIzf-lq6xjsLzUD0eGzp8age5gMDTqYBfbK-k03TAC8G8_-50IQjh36ZU2RF_pAgSXPM7HESXZm1Xe5fX6kOlwsWVBNUuO6RSUdmyg1gRZCGQEaewEtHbRdhJTE-SS-ihGC1BUhrxEhBXg1JtbDMsw44v_BGRhacrGhQa-ohAuBOqrmsZvuzWZFhpY5-WOA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLexgkeC5yhQRQNi-CrP4uMk",
+         "rating" : 4,
+         "reference" : "CmRSAAAAbdM-HV4vvdRc8yfVxfbpobx1QRXIZjbmukhDAyUnt6iWAULRy5a3Ge_JzUc2HFaFpsh9nB3yIxsaCD4llSCF7O3g6K_jke93kl8s1zfwfp3Hfz4FefzVVIf7Z38rgxTXEhBcmIVS7u5vSJLNhHBOd39oGhQss1mgszrws4z1KUA7yyULE7u7Ww",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "İstiklal Cad. No:239"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.032994,
+               "lng" : 28.979787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.03301265,
+                  "lng" : 28.97983965
+               },
+               "southwest" : {
+                  "lat" : 41.03293804999999,
+                  "lng" : 28.97962905
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3934893eac46077255dadba683faa8df089e98d0",
+         "name" : "Gama Gallery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJORBir2G3yhQRPZj1rgAHjFQ",
+         "reference" : "CmRRAAAAvR9VI1W9AOB1wjEppuDVycpNT98DWp23q8ycGetflPk-rm0WrO5xnoh7U_xOvmQJ1sINuAYl-ntFfLFQbuG4riXRuITgVxn9E2epLps6lLNdzKiNH8WMIOWAkDt2LH-OEhByghOrMG1tUW_qNjCAjSnnGhQzgx-pcmBbt98c7_ZeYrG7lBAy3w",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Kuloğlu Mh., Turnacıbaşı Caddesi No:23"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.033639,
+               "lng" : 28.9772361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0336787,
+                  "lng" : 28.97731005
+               },
+               "southwest" : {
+                  "lat" : 41.0335199,
+                  "lng" : 28.97721145
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7a90c0093bdf72a411fb8ea974b5834cae3d1282",
+         "name" : "Telvin Nargile Cafe | İstiklal",
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116304979053644234524/photos\"\u003eTelvin Nargile Cafe | İstiklal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAC0xG6cPecB3uJsa1HnqOJV5yg3ZSeyDz6shuVzfeO8AmKW-HGb2KoFFIENjf6zBaLB_qZDHjMs_VdfuMq7JaY6T-bsONsWe5KoqrQs1eEUsvM3EpYqqL9cVj2KNGH-GxK7xxOSAi-nvBq3h1V6LXDi2T1moNpGMgSRbyZFifon-EhDIY1wRLJjlqPh-CFobyuqBGhSxPNJa2H49QAB2yCUSFLJxQ_8Vzw",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJHatzZmC3yhQRkN8lIYUMEw8",
+         "reference" : "CmRRAAAAbSP35k4Exy9Kb0VPdPOjXfiV7PI6v7tjI2oOTJKHZbQ_CAurNaFSF5dguITly8uEg9NF6RyVB-HcwhTQygzTKnI_mAsgYAeuGKToMQafL8qHPoMUwU5F-0b2AujMGiRIEhDWoEcDwNspq_AUFdqmrdb9GhQJkPYRlnxF_kGReEgBbqrL4B53YA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "İstiklal Caddesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0343168,
+               "lng" : 28.9789644
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fa2b4a0fd5193cd718649fffc8c0d51a2a01f3c0",
+         "name" : "LC Waikiki",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103720759451742963692/photos\"\u003eEdin Smajilbasic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFRR4WO15SrhyGbNhFMs1BaJgrJwcv14OnDp4pyq-iC7uO2aGgJ_4jmW8_UX6M_N0yfiiefjkTuzaNbq1W0CeDP6nKqxlNOipxBRur-aT_Yh_yCU0qsegud_lm0Jpr8qTpJ5I3qg8PJQCVG99uEmDY9iFQnw_eZ5g3iShIpcTHHMEhBW1cNPFW0-CJPeyoI5PJrbGhQUqlQbX0o7MHSYiZEWkByPVYMZVw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQxwYHGG3yhQRWts-c3AVZuo",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAceDz_e0Ofcv1NDsol5SFbiZ8lrJQVwtF1100Z06iuPvTjPSU_OreXr2OdNpwAZY_lTgqOJk_eStFk6fZcW9cw3424zBtUBF_T2eH8JVrgjVg0Z-jMbROPXZjgU-hR6AREhAvxSxIawdzFdPXradLzGYtGhRSgfRebuVVpEANx1iIA3v0xuLOMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "İstiklal Cad. No:66"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.03221080000001,
+               "lng" : 28.9799164
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b722b175b9668ed18c2dc843516615949725dcbd",
+         "name" : "Lalay",
+         "place_id" : "ChIJvWCepOe5yhQRQLWLg9wyb00",
+         "reference" : "CmRRAAAA6zq1DmLlaw2ouZZk14N8hGvM5dd1FYCOyPpGFokFpWbxqo0H8HmQPulxRxl9Zy550ruSkO_BG1Bj_w47AbgSxe42He-nObgAjnowYs4X5to2hDoCePtHwvJVKEcGPKLWEhCvDcKCrcy417wCQLbbw6P9GhQsm3DGRO4yEyUA3veUCbxaah1u1g",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Camekan Sok. 3/A"
+      }
+   ],
+   "status" : "OK"
+}
