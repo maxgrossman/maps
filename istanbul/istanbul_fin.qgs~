@@ -8,7 +8,7 @@
       <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="hideroads20161112184109388" name="hideroads">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="roads20161112181022547" name="roads">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="roads20161112181022547" name="roads">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ports20161112181022643" name="ports">
@@ -20,25 +20,28 @@
       <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ShopDistArea20161112180951729" name="ShopDistArea">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="istanbul_poly20161112181022641" name="istanbul_poly">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="istanbul_poly_copy_copy20161212182411540" name="istanbul_poly copy copy">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="water20161112181022646" name="water">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Checked" name="ShopDisticts">
+    <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="ShopDisticts">
       <customproperties/>
-      <layer-tree-layer expanded="0" checked="Qt::Checked" id="roads_copy20161112184327179" name="roads copy">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="ShopDistStores20161112181022645" name="ShopDistStores">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Checked" id="ShopDistStores20161112181022645" name="ShopDistStores">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="istanbul_turkey_osm_buildings20161212175949413" name="istanbul_turkey_osm_buildings">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Checked" id="roads_copy20161112184327179" name="roads copy">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" checked="Qt::Checked" id="istanbul_poly_copy20161112184330328" name="istanbul_poly copy">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Checked" id="water_copy20161112184330952" name="water copy">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="water_copy20161112184330952" name="water copy">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -47,10 +50,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>29.01121281261460183</xmin>
-      <ymin>40.89346810970666013</ymin>
-      <xmax>29.20927904331263392</xmax>
-      <ymax>40.94569161590244732</ymax>
+      <xmin>28.98239430532235872</xmin>
+      <ymin>41.04515717738965463</ymin>
+      <xmax>29.00240974329112476</xmax>
+      <ymax>41.05729711004588012</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -74,7 +77,6 @@
       <item>hubs_20161112180938601</item>
       <item>ShopDistArea20161112180951729</item>
       <item>roads20161112181022547</item>
-      <item>istanbul_poly20161112181022641</item>
       <item>ports20161112181022643</item>
       <item>ShopDistStores20161112181022645</item>
       <item>water20161112181022646</item>
@@ -82,6 +84,8 @@
       <item>roads_copy20161112184327179</item>
       <item>istanbul_poly_copy20161112184330328</item>
       <item>water_copy20161112184330952</item>
+      <item>istanbul_turkey_osm_buildings20161212175949413</item>
+      <item>istanbul_poly_copy_copy20161212182411540</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -91,8 +95,8 @@
           <legendlayerfile isInOverview="0" layerid="hideroads20161112184109388" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="roads" showFeatureCount="0">
-        <filegroup open="false" hidden="false">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="roads" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
           <legendlayerfile isInOverview="0" layerid="roads20161112181022547" visible="0"/>
         </filegroup>
       </legendlayer>
@@ -111,9 +115,9 @@
           <legendlayerfile isInOverview="0" layerid="ShopDistArea20161112180951729" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="istanbul_poly" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="istanbul_poly copy copy" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="istanbul_poly20161112181022641" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="istanbul_poly_copy_copy20161212182411540" visible="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="water" showFeatureCount="0">
@@ -122,15 +126,20 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Checked" name="ShopDisticts">
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="roads copy" showFeatureCount="0">
-        <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="roads_copy20161112184327179" visible="1"/>
-        </filegroup>
-      </legendlayer>
+    <legendgroup open="true" checked="Qt::PartiallyChecked" name="ShopDisticts">
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ShopDistStores" showFeatureCount="0">
         <filegroup open="true" hidden="false">
           <legendlayerfile isInOverview="0" layerid="ShopDistStores20161112181022645" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="istanbul_turkey_osm_buildings" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="istanbul_turkey_osm_buildings20161212175949413" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="roads copy" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="roads_copy20161112184327179" visible="1"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="istanbul_poly copy" showFeatureCount="0">
@@ -138,9 +147,9 @@
           <legendlayerfile isInOverview="0" layerid="istanbul_poly_copy20161112184330328" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="water copy" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="water copy" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="water_copy20161112184330952" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="water_copy20161112184330952" visible="0"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
@@ -160,55 +169,117 @@
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
+          <effect enabled="1" type="effectStack">
+            <effect type="dropShadow">
+              <prop k="blend_mode" v="13"/>
+              <prop k="blur_level" v="10"/>
+              <prop k="color" v="0,0,0,255"/>
+              <prop k="draw_mode" v="2"/>
+              <prop k="enabled" v="1"/>
+              <prop k="offset_angle" v="135"/>
+              <prop k="offset_distance" v="0.5"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="transparency" v="0"/>
+            </effect>
+            <effect type="outerGlow">
+              <prop k="blend_mode" v="0"/>
+              <prop k="blur_level" v="3"/>
+              <prop k="color1" v="0,0,255,255"/>
+              <prop k="color2" v="0,255,0,255"/>
+              <prop k="color_type" v="0"/>
+              <prop k="discrete" v="0"/>
+              <prop k="draw_mode" v="2"/>
+              <prop k="enabled" v="0"/>
+              <prop k="single_color" v="255,255,255,255"/>
+              <prop k="spread" v="2"/>
+              <prop k="spread_unit" v="MM"/>
+              <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="transparency" v="0.5"/>
+            </effect>
+            <effect type="drawSource">
+              <prop k="blend_mode" v="0"/>
+              <prop k="draw_mode" v="2"/>
+              <prop k="enabled" v="1"/>
+              <prop k="transparency" v="0"/>
+            </effect>
+            <effect type="innerShadow">
+              <prop k="blend_mode" v="13"/>
+              <prop k="blur_level" v="10"/>
+              <prop k="color" v="0,0,0,255"/>
+              <prop k="draw_mode" v="2"/>
+              <prop k="enabled" v="0"/>
+              <prop k="offset_angle" v="135"/>
+              <prop k="offset_distance" v="2"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="transparency" v="0"/>
+            </effect>
+            <effect type="innerGlow">
+              <prop k="blend_mode" v="0"/>
+              <prop k="blur_level" v="3"/>
+              <prop k="color1" v="0,0,255,255"/>
+              <prop k="color2" v="0,255,0,255"/>
+              <prop k="color_type" v="0"/>
+              <prop k="discrete" v="0"/>
+              <prop k="draw_mode" v="2"/>
+              <prop k="enabled" v="0"/>
+              <prop k="single_color" v="255,255,255,255"/>
+              <prop k="spread" v="2"/>
+              <prop k="spread_unit" v="MM"/>
+              <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="transparency" v="0.5"/>
+            </effect>
+          </effect>
         </layer>
       </symbol>
       <ComposerLabel valign="32" marginX="1" marginY="0" labelText="Hub C" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,11,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,11,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="110.449" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="278.499" y="110.449" visibility="1" zValue="202" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="13.82" outlineWidth="0.3" excludeFromExports="0" uuid="{4bd7ad90-5454-4a08-86d9-8662fdadaf57}" height="4.22114" itemRotation="0" frame="false" pagex="278.499">
+        <ComposerItem pagey="110.449" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="278.499" y="110.449" visibility="1" zValue="42" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="13.82" outlineWidth="0.3" excludeFromExports="0" uuid="{4bd7ad90-5454-4a08-86d9-8662fdadaf57}" height="4.22114" itemRotation="0" frame="false" pagex="278.499">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="179" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="0" labelText="Hub B" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,11,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,11,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="162.836" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="184.238" y="162.836" visibility="1" zValue="166" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="13.1144" outlineWidth="0.3" excludeFromExports="0" uuid="{6ca1ea95-3395-4099-a720-cf7447a7af10}" height="4.04475" itemRotation="0" frame="false" pagex="184.238">
+        <ComposerItem pagey="162.836" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="184.238" y="162.836" visibility="1" zValue="41" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="13.1144" outlineWidth="0.3" excludeFromExports="0" uuid="{6ca1ea95-3395-4099-a720-cf7447a7af10}" height="4.04475" itemRotation="0" frame="false" pagex="184.238">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="179" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="0" labelText="Hub A" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,11,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,11,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="149.584" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="164.039" y="149.584" visibility="1" zValue="131" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="13.4671" outlineWidth="0.3" excludeFromExports="0" uuid="{ff830669-4b2b-429f-a47c-08d500429491}" height="4.39753" itemRotation="0" frame="false" pagex="164.039">
+        <ComposerItem pagey="149.584" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="164.039" y="149.584" visibility="1" zValue="40" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="13.4671" outlineWidth="0.3" excludeFromExports="0" uuid="{ff830669-4b2b-429f-a47c-08d500429491}" height="4.39753" itemRotation="0" frame="false" pagex="164.039">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="179" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="0" labelText="Port of Haydarpasa" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,11,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,11,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="194.347" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="256.639" y="194.347" visibility="1" zValue="97" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.7206" outlineWidth="0.3" excludeFromExports="0" uuid="{5c26fb2b-674c-4bc9-be05-01f342b472d0}" height="4.96316" itemRotation="0" frame="false" pagex="256.639">
+        <ComposerItem pagey="194.347" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="256.639" y="194.347" visibility="1" zValue="39" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.7206" outlineWidth="0.3" excludeFromExports="0" uuid="{5c26fb2b-674c-4bc9-be05-01f342b472d0}" height="4.96316" itemRotation="0" frame="false" pagex="256.639">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="179" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="0" labelText="Port of Istanbul" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,11,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,11,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="196.003" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="123.005" y="196.003" visibility="1" zValue="64" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="30.6243" outlineWidth="0.3" excludeFromExports="0" uuid="{86e37377-39a5-4002-b7a9-437f5db7215b}" height="4.78891" itemRotation="0" frame="false" pagex="123.005">
+        <ComposerItem pagey="196.003" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="123.005" y="196.003" visibility="1" zValue="38" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="30.6243" outlineWidth="0.3" excludeFromExports="0" uuid="{86e37377-39a5-4002-b7a9-437f5db7215b}" height="4.78891" itemRotation="0" frame="false" pagex="123.005">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="179" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="14.248" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="./images/Yuk.png" pictureHeight="10.3622" mapId="-1" anchorPoint="0">
-        <ComposerItem pagey="11.4413" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="230.402" y="11.4413" visibility="1" zValue="39" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="16.9333" outlineWidth="0.3" excludeFromExports="0" uuid="{c58f1baf-0128-4963-ac82-1b583c5675a1}" height="10.3622" itemRotation="0" frame="false" pagex="230.402">
+        <ComposerItem pagey="11.4413" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="231.402" y="11.4413" visibility="1" zValue="37" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="16.9333" outlineWidth="0.3" excludeFromExports="0" uuid="{c58f1baf-0128-4963-ac82-1b583c5675a1}" height="10.3622" itemRotation="0" frame="false" pagex="231.402">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
@@ -216,28 +287,28 @@
         </ComposerItem>
       </ComposerPicture>
       <ComposerLabel valign="32" marginX="1" marginY="0" labelText="Topçular" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,11,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,11,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="133.794" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="133.794" visibility="1" zValue="32" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="18.8954" outlineWidth="0.3" excludeFromExports="0" uuid="{4f367ef8-3087-419d-a243-f5d95740f9f8}" height="5.41341" itemRotation="0" frame="false" pagex="92.1541">
+        <ComposerItem pagey="133.794" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="133.794" visibility="1" zValue="36" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="18.8954" outlineWidth="0.3" excludeFromExports="0" uuid="{4f367ef8-3087-419d-a243-f5d95740f9f8}" height="5.41341" itemRotation="0" frame="false" pagex="92.1541">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="179" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerScaleBar lineCapStyle="square" style="Line Ticks Middle" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="2" segmentMillimeters="13.5652" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="100" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="1" boxContentSpace="1" mapId="2" unitLabel="m">
-        <scaleBarFont description="Baghdad,4,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <scaleBarFont description="Maven Pro,6,-1,5,50,0,0,0,0,0" style="Regular"/>
         <fillColor alpha="0" red="57" blue="57" green="57"/>
         <fillColor2 alpha="0" red="57" blue="57" green="57"/>
         <strokeColor alpha="255" red="57" blue="57" green="57"/>
         <textColor alpha="255" red="57" blue="57" green="57"/>
-        <ComposerItem pagey="51.7978" page="1" id="İstiklal Caddesi Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="51.7978" visibility="1" zValue="31" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="33.1678" outlineWidth="0.3" excludeFromExports="0" uuid="{888dd89c-51be-47b5-ab38-a01233d0cbbc}" height="8.28083" itemRotation="0" frame="false" pagex="92.1541">
+        <ComposerItem pagey="53.7978" page="1" id="İstiklal Caddesi Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="98.1541" y="53.7978" visibility="1" zValue="35" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="34.946" outlineWidth="0.3" excludeFromExports="0" uuid="{888dd89c-51be-47b5-ab38-a01233d0cbbc}" height="8.28083" itemRotation="0" frame="false" pagex="98.1541">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerScaleBar>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="310" pictureWidth="3.43412" svgFillColor="255,255,255,255" svgBorderColor="57,57,57,204" file="/Applications/QGIS.app/Contents/Resources/svg/arrows/Arrow_05.svg" pictureHeight="3.43412" mapId="2" anchorPoint="0">
-        <ComposerItem pagey="51.7978" page="1" id="İstiklal Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="51.7978" visibility="1" zValue="30" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{ae872d77-31fc-42f8-9e13-aac88353d975}" height="5.31312" itemRotation="0" frame="false" pagex="92.1541">
+        <ComposerItem pagey="51.7978" page="1" id="İstiklal Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="51.7978" visibility="1" zValue="34" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{ae872d77-31fc-42f8-9e13-aac88353d975}" height="5.31312" itemRotation="0" frame="false" pagex="92.1541">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
@@ -245,19 +316,19 @@
         </ComposerItem>
       </ComposerPicture>
       <ComposerScaleBar lineCapStyle="square" style="Line Ticks Middle" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="2" segmentMillimeters="13.5652" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="100" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="1" boxContentSpace="1" mapId="2" unitLabel="m">
-        <scaleBarFont description="Baghdad,4,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <scaleBarFont description="Maven Pro,6,-1,5,50,0,0,0,0,0" style="Regular"/>
         <fillColor alpha="0" red="57" blue="57" green="57"/>
         <fillColor2 alpha="0" red="57" blue="57" green="57"/>
         <strokeColor alpha="255" red="57" blue="57" green="57"/>
         <textColor alpha="255" red="57" blue="57" green="57"/>
-        <ComposerItem pagey="71.3978" page="1" id="İstiklal Caddesi Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="71.3978" visibility="1" zValue="29" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="33.1678" outlineWidth="0.3" excludeFromExports="0" uuid="{56503b05-7826-4f7f-8f8a-c5a629a8205c}" height="7.92656" itemRotation="0" frame="false" pagex="8.02998">
+        <ComposerItem pagey="71.3978" page="1" id="İstiklal Caddesi Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="71.3978" visibility="1" zValue="33" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="34.946" outlineWidth="0.3" excludeFromExports="0" uuid="{56503b05-7826-4f7f-8f8a-c5a629a8205c}" height="8.025" itemRotation="0" frame="false" pagex="8.02998">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerScaleBar>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="310" pictureWidth="3.43412" svgFillColor="255,255,255,255" svgBorderColor="57,57,57,204" file="/Applications/QGIS.app/Contents/Resources/svg/arrows/Arrow_05.svg" pictureHeight="3.43412" mapId="2" anchorPoint="0">
-        <ComposerItem pagey="65.0847" page="1" id="İstiklal Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="65.0847" visibility="1" zValue="28" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{5f97a96a-2100-4aed-a84b-a60d4102a83f}" height="5.31312" itemRotation="0" frame="false" pagex="8.02998">
+        <ComposerItem pagey="65.0847" page="1" id="İstiklal Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="65.0847" visibility="1" zValue="32" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{5f97a96a-2100-4aed-a84b-a60d4102a83f}" height="5.31312" itemRotation="0" frame="false" pagex="8.02998">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
@@ -265,34 +336,34 @@
         </ComposerItem>
       </ComposerPicture>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Store" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="44.8442" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="242.22" y="44.8442" visibility="1" zValue="27" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.279" outlineWidth="0.3" excludeFromExports="0" uuid="{65fd2150-bb7c-4be8-8166-be28b8f5d60d}" height="6.61016" itemRotation="0" frame="false" pagex="242.22">
+        <ComposerItem pagey="47.8442" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="250.22" y="47.8442" visibility="1" zValue="31" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.279" outlineWidth="0.3" excludeFromExports="0" uuid="{65fd2150-bb7c-4be8-8166-be28b8f5d60d}" height="6.61016" itemRotation="0" frame="false" pagex="250.22">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Distribution Hub" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="37.6965" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="242.22" y="37.6965" visibility="1" zValue="26" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.2792" outlineWidth="0.3" excludeFromExports="0" uuid="{4bd84d86-580a-41c3-91b9-7731ad4658ef}" height="6.35" itemRotation="0" frame="false" pagex="242.22">
+        <ComposerItem pagey="40.6965" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="250.22" y="40.6965" visibility="1" zValue="30" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.2792" outlineWidth="0.3" excludeFromExports="0" uuid="{4bd84d86-580a-41c3-91b9-7731ad4658ef}" height="6.7026" itemRotation="0" frame="false" pagex="250.22">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Port&#x9;" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="31.0042" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="242.22" y="31.0042" visibility="1" zValue="25" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="10.231" outlineWidth="0.3" excludeFromExports="0" uuid="{debedb84-96ea-4eb7-ac3e-e3e8019994cb}" height="6.35" itemRotation="0" frame="false" pagex="242.22">
+        <ComposerItem pagey="34.0042" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="250.22" y="34.0042" visibility="1" zValue="29" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="10.231" outlineWidth="0.3" excludeFromExports="0" uuid="{debedb84-96ea-4eb7-ac3e-e3e8019994cb}" height="6.35" itemRotation="0" frame="false" pagex="250.22">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="7.05528" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="./svgs/store.svg" pictureHeight="7.05528" mapId="-1" anchorPoint="0">
-        <ComposerItem pagey="44.3991" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="232.718" y="44.3991" visibility="1" zValue="24" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="7.76806" outlineWidth="0.3" excludeFromExports="0" uuid="{efcb6498-1b44-42ee-b270-9add4d1800e8}" height="7.05528" itemRotation="0" frame="false" pagex="232.718">
+        <ComposerItem pagey="47.3991" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="235.718" y="47.3991" visibility="1" zValue="28" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="7.76806" outlineWidth="0.3" excludeFromExports="0" uuid="{efcb6498-1b44-42ee-b270-9add4d1800e8}" height="7.05528" itemRotation="0" frame="false" pagex="235.718">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
@@ -300,16 +371,16 @@
         </ComposerItem>
       </ComposerPicture>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Shopping District" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="23.8082" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="242.22" y="23.8082" visibility="1" zValue="23" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.279" outlineWidth="0.3" excludeFromExports="0" uuid="{910bb06c-987c-4f3b-bc0c-e248a1d26292}" height="6.35" itemRotation="0" frame="false" pagex="242.22">
+        <ComposerItem pagey="26.8082" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="250.22" y="26.8082" visibility="1" zValue="27" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.279" outlineWidth="0.3" excludeFromExports="0" uuid="{910bb06c-987c-4f3b-bc0c-e248a1d26292}" height="6.35" itemRotation="0" frame="false" pagex="250.22">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="7.055" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="./svgs/package.svg" pictureHeight="7.055" mapId="-1" anchorPoint="0">
-        <ComposerItem pagey="37.6692" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="233.3" y="37.6692" visibility="1" zValue="22" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="7.768" outlineWidth="0.3" excludeFromExports="0" uuid="{ed56ac34-9842-4916-84a2-fc368d08f357}" height="7.055" itemRotation="0" frame="false" pagex="233.3">
+        <ComposerItem pagey="40.6692" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="236.3" y="40.6692" visibility="1" zValue="26" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="7.768" outlineWidth="0.3" excludeFromExports="0" uuid="{ed56ac34-9842-4916-84a2-fc368d08f357}" height="7.055" itemRotation="0" frame="false" pagex="236.3">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
@@ -317,18 +388,18 @@
         </ComposerItem>
       </ComposerPicture>
       <ComposerLabel valign="64" marginX="1" marginY="1" labelText="Source: OSM Contributors, Mapzen, Google Places" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,6,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,6,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="51.7978" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="229.543" y="51.7978" visibility="1" zValue="21" background="false" transparency="10" frameJoinStyle="miter" blendMode="0" width="58.4242" outlineWidth="0.3" excludeFromExports="0" uuid="{f09d289b-7d1b-42f8-99e7-2e31047cd1aa}" height="5.93542" itemRotation="0" frame="false" pagex="229.543">
+        <ComposerItem pagey="54.4544" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="233.291" y="54.4544" visibility="1" zValue="25" background="false" transparency="10" frameJoinStyle="miter" blendMode="0" width="50.9275" outlineWidth="0.3" excludeFromExports="0" uuid="{f09d289b-7d1b-42f8-99e7-2e31047cd1aa}" height="6.63034" itemRotation="0" frame="false" pagex="233.291">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
-      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Nispetiye Caddesi&#xa;" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&lt;span style=&quot;color:rgba(57,57,57,01);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;text-shadow: 0.5px 0.5px 0.5px #fff, 0.7px 0.7px 0px rgba(0,0,0,.3);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;font-family:'Maven Pro''&quot;>Nispetiye Caddesi&lt;/span?&#xa;" htmlState="2" halign="1">
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="5.92805" page="1" id="Nispetiye Caddesi&#xa;" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="5.92805" visibility="1" zValue="20" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.7908" outlineWidth="0.3" excludeFromExports="0" uuid="{b1e7633d-b07b-4448-a65e-0a5180c90be2}" height="7.37765" itemRotation="0" frame="false" pagex="92.1541">
+        <ComposerItem pagey="5.92805" page="1" id="Nispetiye Caddesi&#xa;" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="92.1541" y="5.92805" visibility="1" zValue="24" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.7908" outlineWidth="0.3" excludeFromExports="0" uuid="{b1e7633d-b07b-4448-a65e-0a5180c90be2}" height="11.3203" itemRotation="0" frame="false" pagex="92.1541">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -350,27 +421,27 @@
             <prop k="style" v="solid"/>
           </layer>
         </symbol>
-        <ComposerItem pagey="23.8472" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="233.3" y="23.8472" visibility="1" zValue="19" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="6" outlineWidth="0.3" excludeFromExports="0" uuid="{0474f7a2-dce8-4928-b3c7-1dcfe76e0da0}" height="6.168" itemRotation="0" frame="false" pagex="233.3">
+        <ComposerItem pagey="26.8472" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="236.3" y="26.8472" visibility="1" zValue="23" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="6" outlineWidth="0.3" excludeFromExports="0" uuid="{0474f7a2-dce8-4928-b3c7-1dcfe76e0da0}" height="6.168" itemRotation="0" frame="false" pagex="236.3">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerShape>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="7" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" file="./svgs/freight.svg" pictureHeight="7" mapId="-1" anchorPoint="0">
-        <ComposerItem pagey="30.6692" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="233" y="30.6692" visibility="1" zValue="18" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="8.236" outlineWidth="0.3" excludeFromExports="0" uuid="{5771957a-c08e-4464-9979-77a91361f3d5}" height="7" itemRotation="0" frame="false" pagex="233">
+        <ComposerItem pagey="33.6692" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="236" y="33.6692" visibility="1" zValue="22" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="8.236" outlineWidth="0.3" excludeFromExports="0" uuid="{5771957a-c08e-4464-9979-77a91361f3d5}" height="7" itemRotation="0" frame="false" pagex="236">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
           <customproperties/>
         </ComposerItem>
       </ComposerPicture>
-      <ComposerMap mapRotation="183" keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="true">
+      <ComposerMap mapRotation="183" keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="false">
         <Extent ymin="41.07583757269117086" xmin="29.02538378455584933" ymax="41.07808538860698633" xmax="29.02831737481886165"/>
         <LayerSet>
-          <Layer>roads_copy20161112184327179</Layer>
           <Layer>ShopDistStores20161112181022645</Layer>
+          <Layer>istanbul_turkey_osm_buildings20161212175949413</Layer>
+          <Layer>roads_copy20161112184327179</Layer>
           <Layer>istanbul_poly_copy20161112184330328</Layer>
-          <Layer>water_copy20161112184330952</Layer>
         </LayerSet>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{c0702da5-7160-45bc-a602-801d2eae0f37}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -421,51 +492,24 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="3.50063" page="1" id="Nispetiye Caddesi&#xa;Map" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="89.5083" y="3.50063" visibility="1" zValue="17" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{995378df-7d0d-42ad-a247-96b2165b05e0}" height="59" itemRotation="0" frame="false" pagex="89.5083">
+        <ComposerItem pagey="4.03605" page="1" id="Nispetiye Caddesi&#xa;Map" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="89.627" y="4.03605" visibility="1" zValue="21" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{995378df-7d0d-42ad-a247-96b2165b05e0}" height="59" itemRotation="0" frame="false" pagex="89.627">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
-      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Abdi İpekçi Caddesi" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&lt;span style=&quot;color:rgba(57,57,57,01);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;text-shadow: 0.5px 0.5px 0.5px #fff, 0.7px 0.7px 0px rgba(0,0,0,.3);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;font-family:'Maven Pro''&quot;>Abdi İpekçi Caddesi&lt;/span>" htmlState="2" halign="1">
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="24.1808" page="1" id="Abdi İpekçi Caddesi" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.52953" y="24.1808" visibility="1" zValue="16" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.7908" outlineWidth="0.3" excludeFromExports="0" uuid="{c96c6e65-aaab-4434-80bb-91b8007a6258}" height="5.64488" itemRotation="0" frame="false" pagex="9.52953">
+        <ComposerItem pagey="24.1808" page="1" id="Abdi İpekçi Caddesi" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.68005" y="24.1808" visibility="1" zValue="20" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.0227" outlineWidth="0.3" excludeFromExports="0" uuid="{c96c6e65-aaab-4434-80bb-91b8007a6258}" height="10.7602" itemRotation="0" frame="false" pagex="9.68005">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
-      <ComposerShape shapeType="1" cornerRadius="0">
-        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
-          <layer pass="0" class="SimpleFill" locked="0">
-            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="color" v="255,255,255,255"/>
-            <prop k="joinstyle" v="miter"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,0"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0.3"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="style" v="solid"/>
-          </layer>
-        </symbol>
-        <ComposerItem pagey="24.2976" page="1" id="Abdi İpekçi Caddesi Rect" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.67953" y="24.2976" visibility="1" zValue="15" background="true" transparency="0" frameJoinStyle="miter" blendMode="1" width="43.4637" outlineWidth="0.3" excludeFromExports="0" uuid="{0e943947-f8fc-48e8-b21b-3f34079f034c}" height="5.37807" itemRotation="0" frame="false" pagex="9.67953">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerShape>
-      <ComposerMap mapRotation="310" keepLayerSet="true" id="2" previewMode="Cache" drawCanvasItems="true">
+      <ComposerMap mapRotation="310" keepLayerSet="false" id="2" previewMode="Render" drawCanvasItems="true">
         <Extent ymin="41.04850630678963341" xmin="28.99009159042119066" ymax="41.05241341775407449" xmax="28.99519070134088494"/>
-        <LayerSet>
-          <Layer>roads_copy20161112184327179</Layer>
-          <Layer>ShopDistStores20161112181022645</Layer>
-          <Layer>istanbul_poly_copy20161112184330328</Layer>
-          <Layer>water_copy20161112184330952</Layer>
-        </LayerSet>
+        <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{33bbb0b6-4909-4c4f-b9a5-4b88acfc6ee2}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
           <lineStyle>
@@ -515,23 +559,23 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="21.8035" page="1" id="Abdi İpekçi Caddesi Map" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="5.62679" y="21.8035" visibility="1" zValue="14" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{9193e0b9-0642-4e80-a734-a855d597020e}" height="59" itemRotation="0" frame="false" pagex="5.62679">
+        <ComposerItem pagey="21.8035" page="1" id="Abdi İpekçi Caddesi Map" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="5.62679" y="21.8035" visibility="1" zValue="18" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{9193e0b9-0642-4e80-a734-a855d597020e}" height="59" itemRotation="0" frame="false" pagex="5.62679">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
-      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="İstiklal Caddesi&#xa;" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&lt;span style=&quot;color:rgba(57,57,57,01);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;text-shadow: 0.5px 0.5px 0.5px #fff, 0.7px 0.7px 0px rgba(0,0,0,.3);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;font-family:'Maven Pro''&quot;>İstiklal Caddesi&#xa;&lt;/span>&#xa;" htmlState="2" halign="1">
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="86.8165" page="1" id="İstiklal Caddesi" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.11265" y="86.8165" visibility="1" zValue="13" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="28.2658" outlineWidth="0.3" excludeFromExports="0" uuid="{005890e3-dd1b-4d94-9498-30b2d2787513}" height="5.64488" itemRotation="0" frame="false" pagex="9.11265">
+        <ComposerItem pagey="86.8165" page="1" id="İstiklal Caddesi" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.11265" y="86.8165" visibility="1" zValue="17" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="36.2033" outlineWidth="0.3" excludeFromExports="0" uuid="{005890e3-dd1b-4d94-9498-30b2d2787513}" height="12.7004" itemRotation="0" frame="false" pagex="9.11265">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="21" pictureWidth="3.74481" svgFillColor="255,255,255,255" svgBorderColor="57,57,57,204" file="/Applications/QGIS.app/Contents/Resources/svg/arrows/Arrow_05.svg" pictureHeight="3.74481" mapId="3" anchorPoint="0">
-        <ComposerItem pagey="128.93" page="1" id="İstiklal Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="128.93" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{a0d9b06e-e7c5-41f6-bcb9-0d6732787b98}" height="5.31312" itemRotation="0" frame="false" pagex="8.02998">
+        <ComposerItem pagey="128.93" page="1" id="İstiklal Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="128.93" visibility="1" zValue="16" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{a0d9b06e-e7c5-41f6-bcb9-0d6732787b98}" height="5.31312" itemRotation="0" frame="false" pagex="8.02998">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
@@ -539,46 +583,24 @@
         </ComposerItem>
       </ComposerPicture>
       <ComposerScaleBar lineCapStyle="square" style="Line Ticks Middle" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="2" segmentMillimeters="12.623" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="100" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="1" boxContentSpace="1" mapId="3" unitLabel="m">
-        <scaleBarFont description="Baghdad,4,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <scaleBarFont description="Maven Pro,6,-1,5,50,0,0,0,0,0" style="Regular"/>
         <fillColor alpha="0" red="57" blue="57" green="57"/>
         <fillColor2 alpha="0" red="57" blue="57" green="57"/>
         <strokeColor alpha="255" red="57" blue="57" green="57"/>
         <textColor alpha="255" red="57" blue="57" green="57"/>
-        <ComposerItem pagey="135.244" page="1" id="İstiklal Caddesi Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="7.35722" y="135.244" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="31.2836" outlineWidth="0.3" excludeFromExports="0" uuid="{8ada8750-0b69-4cec-a9e4-6b020b74bd2d}" height="7.92656" itemRotation="0" frame="false" pagex="7.35722">
+        <ComposerItem pagey="135.244" page="1" id="İstiklal Caddesi Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="7.35722" y="135.244" visibility="1" zValue="15" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="33.0617" outlineWidth="0.3" excludeFromExports="0" uuid="{8ada8750-0b69-4cec-a9e4-6b020b74bd2d}" height="8.025" itemRotation="0" frame="false" pagex="7.35722">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerScaleBar>
-      <ComposerShape shapeType="1" cornerRadius="0">
-        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
-          <layer pass="0" class="SimpleFill" locked="0">
-            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="color" v="255,255,255,255"/>
-            <prop k="joinstyle" v="miter"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,0"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0.3"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="style" v="solid"/>
-          </layer>
-        </symbol>
-        <ComposerItem pagey="86.9665" page="1" id="İstiklal Caddesi Rect" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.67953" y="86.9665" visibility="1" zValue="10" background="true" transparency="0" frameJoinStyle="miter" blendMode="1" width="27.5489" outlineWidth="0.3" excludeFromExports="0" uuid="{e39d07bd-b37c-49bc-8517-af34d63bb313}" height="5.37807" itemRotation="0" frame="false" pagex="9.67953">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerShape>
       <ComposerMap mapRotation="21" keepLayerSet="true" id="3" previewMode="Cache" drawCanvasItems="true">
         <Extent ymin="41.03130218891100611" xmin="28.97640821579997095" ymax="41.03550090954840357" xmax="28.98188790205555421"/>
         <LayerSet>
-          <Layer>roads_copy20161112184327179</Layer>
           <Layer>ShopDistStores20161112181022645</Layer>
+          <Layer>istanbul_turkey_osm_buildings20161212175949413</Layer>
+          <Layer>roads_copy20161112184327179</Layer>
           <Layer>istanbul_poly_copy20161112184330328</Layer>
-          <Layer>water_copy20161112184330952</Layer>
         </LayerSet>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{466d11f3-1f5b-4597-b762-b068930d6aeb}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -629,58 +651,36 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="85.1701" page="1" id="İstiklal Caddesi Map" lastValidViewScaleFactor="5.66929" positionMode="0" positionLock="false" x="5.62679" y="85.1701" visibility="1" zValue="9" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{ef31e176-4aaf-47dc-91e6-d0cc80499d9f}" height="59" itemRotation="0" frame="false" pagex="5.62679">
+        <ComposerItem pagey="85.1701" page="1" id="İstiklal Caddesi Map" lastValidViewScaleFactor="11.3386" positionMode="0" positionLock="false" x="5.62679" y="85.1701" visibility="1" zValue="13" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{ef31e176-4aaf-47dc-91e6-d0cc80499d9f}" height="59" itemRotation="0" frame="false" pagex="5.62679">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
-      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Nuruosmaniye Caddesi&#xa;" htmlState="0" halign="1">
-        <LabelFont description="Baghdad,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&lt;span style=&quot;color:rgba(57,57,57,01);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;text-shadow: 0.5px 0.5px 0.5px #fff, 0.7px 0.7px 0px rgba(0,0,0,.3);&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;font-family:'Maven Pro''&quot;>Nuruosmaniye Caddesi&lt;/span>&#xa;" htmlState="2" halign="1">
+        <LabelFont description="Maven Pro,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="147.789" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="8.02998" y="147.789" visibility="1" zValue="8" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="41.3186" outlineWidth="0.3" excludeFromExports="0" uuid="{80759173-a6de-4241-b305-48841120cc28}" height="5.64488" itemRotation="0" frame="false" pagex="8.02998">
+        <ComposerItem pagey="147.789" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="7.81865" y="147.789" visibility="1" zValue="12" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="54.4596" outlineWidth="0.3" excludeFromExports="0" uuid="{80759173-a6de-4241-b305-48841120cc28}" height="10.231" itemRotation="0" frame="false" pagex="7.81865">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="4.8381" svgFillColor="255,255,255,255" svgBorderColor="57,57,57,204" file="/Applications/QGIS.app/Contents/Resources/svg/arrows/Arrow_05.svg" pictureHeight="4.8381" mapId="-1" anchorPoint="0">
-        <ComposerItem pagey="190.516" page="1" id="Nuruosmaniye Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="6.6936" y="190.516" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{a9f86459-cce4-4564-a7bf-53d31276ea9b}" height="5.31312" itemRotation="0" frame="false" pagex="6.6936">
+        <ComposerItem pagey="190.516" page="1" id="Nuruosmaniye Caddesi North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="6.6936" y="190.516" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="4.8381" outlineWidth="0.3" excludeFromExports="0" uuid="{a9f86459-cce4-4564-a7bf-53d31276ea9b}" height="5.31312" itemRotation="0" frame="false" pagex="6.6936">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
           <customproperties/>
         </ComposerItem>
       </ComposerPicture>
-      <ComposerShape shapeType="1" cornerRadius="0">
-        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
-          <layer pass="0" class="SimpleFill" locked="0">
-            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="color" v="255,255,255,255"/>
-            <prop k="joinstyle" v="miter"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,0"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0.3"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="style" v="solid"/>
-          </layer>
-        </symbol>
-        <ComposerItem pagey="147.906" page="1" id="Nuruosmaniye Caddesi Rect" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="6.8436" y="147.906" visibility="1" zValue="6" background="true" transparency="0" frameJoinStyle="miter" blendMode="1" width="43.4637" outlineWidth="0.3" excludeFromExports="0" uuid="{567767fc-3c1c-48ff-b878-f83950d48256}" height="5.37807" itemRotation="0" frame="false" pagex="6.8436">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerShape>
       <ComposerScaleBar lineCapStyle="square" style="Line Ticks Middle" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="2" segmentMillimeters="9.87354" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="100" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="1" boxContentSpace="1" mapId="4" unitLabel="m">
-        <scaleBarFont description="Baghdad,4,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <scaleBarFont description="Maven Pro,6,-1,5,50,0,0,0,0,0" style="Regular"/>
         <fillColor alpha="0" red="57" blue="57" green="57"/>
         <fillColor2 alpha="0" red="57" blue="57" green="57"/>
         <strokeColor alpha="255" red="57" blue="57" green="57"/>
         <textColor alpha="255" red="57" blue="57" green="57"/>
-        <ComposerItem pagey="196.829" page="1" id="Nuruosmaniye Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="5.62679" y="196.829" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="25.7846" outlineWidth="0.3" excludeFromExports="0" uuid="{4a7fd8aa-1e63-489b-813b-ba11389b8ca1}" height="7.92656" itemRotation="0" frame="false" pagex="5.62679">
+        <ComposerItem pagey="196.829" page="1" id="Nuruosmaniye Caddesi Scale" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="6.62679" y="196.829" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="27.5627" outlineWidth="0.3" excludeFromExports="0" uuid="{4a7fd8aa-1e63-489b-813b-ba11389b8ca1}" height="8.025" itemRotation="0" frame="false" pagex="6.62679">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -689,10 +689,10 @@
       <ComposerMap mapRotation="0" keepLayerSet="true" id="4" previewMode="Render" drawCanvasItems="true">
         <Extent ymin="41.00766337014244556" xmin="28.96651483316072273" ymax="41.01303131094343257" xmax="28.97352045081624539"/>
         <LayerSet>
-          <Layer>roads_copy20161112184327179</Layer>
           <Layer>ShopDistStores20161112181022645</Layer>
+          <Layer>istanbul_turkey_osm_buildings20161212175949413</Layer>
+          <Layer>roads_copy20161112184327179</Layer>
           <Layer>istanbul_poly_copy20161112184330328</Layer>
-          <Layer>water_copy20161112184330952</Layer>
         </LayerSet>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{cede0c58-202b-4d99-bf05-95c4bed6b325}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -743,16 +743,16 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="146.756" page="1" id="Nuruosmaniye Caddesi Map" lastValidViewScaleFactor="5.66929" positionMode="0" positionLock="false" x="4.35722" y="146.756" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{72e61181-bebe-49b6-a216-16fcd9d332d5}" height="59" itemRotation="0" frame="false" pagex="4.35722">
+        <ComposerItem pagey="145.854" page="1" id="Nuruosmaniye Caddesi Map" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="5.62679" y="145.854" visibility="1" zValue="8" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77" outlineWidth="0.3" excludeFromExports="0" uuid="{72e61181-bebe-49b6-a216-16fcd9d332d5}" height="59" itemRotation="0" frame="false" pagex="5.62679">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Delivery Model" htmlState="0" halign="4">
-        <LabelFont description="Baghdad,16,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Maven Pro,16,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="57" blue="57" green="57"/>
-        <ComposerItem pagey="12.6931" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="244.323" y="12.6931" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.1437" outlineWidth="0.3" excludeFromExports="0" uuid="{9bbf0922-eae1-4859-af8e-4900b1f75017}" height="9.11042" itemRotation="0" frame="false" pagex="244.323">
+        <ComposerItem pagey="12.6931" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="243.323" y="12.6931" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.1437" outlineWidth="0.3" excludeFromExports="0" uuid="{9bbf0922-eae1-4859-af8e-4900b1f75017}" height="9.11042" itemRotation="0" frame="false" pagex="243.323">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -767,14 +767,409 @@
             <prop k="offset" v="0,0"/>
             <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
             <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,183"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.7"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="style" v="solid"/>
+            <effect enabled="1" type="effectStack">
+              <effect type="dropShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="0.5"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="outerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="2"/>
+                <prop k="color1" v="250,250,250,255"/>
+                <prop k="color2" v="5,5,5,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="single_color" v="224,224,224,255"/>
+                <prop k="spread" v="0.5"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.607"/>
+              </effect>
+              <effect type="drawSource">
+                <prop k="blend_mode" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="transparency" v="0.854"/>
+              </effect>
+              <effect type="innerShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="2"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color_type" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+            </effect>
+          </layer>
+        </symbol>
+        <ComposerItem pagey="9.76688" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="229.693" y="9.76688" visibility="1" zValue="6" background="true" transparency="15" frameJoinStyle="miter" blendMode="0" width="58.6237" outlineWidth="0.3" excludeFromExports="0" uuid="{c63a63b0-4e9a-41b3-bf23-de406c0c6fcf}" height="52.1618" itemRotation="0" frame="false" pagex="229.693">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerShape>
+      <ComposerShape shapeType="1" cornerRadius="1">
+        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+          <layer pass="0" class="SimpleFill" locked="0">
+            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="color" v="255,255,255,255"/>
+            <prop k="joinstyle" v="miter"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
             <prop k="outline_color" v="0,0,0,0"/>
             <prop k="outline_style" v="solid"/>
             <prop k="outline_width" v="0.3"/>
             <prop k="outline_width_unit" v="MM"/>
             <prop k="style" v="solid"/>
+            <effect enabled="1" type="effectStack">
+              <effect type="dropShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="1.25"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="outerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+              <effect type="drawSource">
+                <prop k="blend_mode" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="2"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+            </effect>
           </layer>
         </symbol>
-        <ComposerItem pagey="10.3453" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="229.693" y="10.3453" visibility="1" zValue="2" background="true" transparency="15" frameJoinStyle="miter" blendMode="0" width="58.1242" outlineWidth="0.3" excludeFromExports="0" uuid="{c63a63b0-4e9a-41b3-bf23-de406c0c6fcf}" height="47.2379" itemRotation="0" frame="false" pagex="229.693">
+        <ComposerItem pagey="24.3308" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="5.77679" y="24.3308" visibility="1" zValue="5" background="true" transparency="15" frameJoinStyle="miter" blendMode="0" width="76.7" outlineWidth="0.3" excludeFromExports="0" uuid="{cd186a37-dde2-4a63-b6c5-726176a9adf8}" height="56.3227" itemRotation="0" frame="false" pagex="5.77679">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerShape>
+      <ComposerShape shapeType="1" cornerRadius="1">
+        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+          <layer pass="0" class="SimpleFill" locked="0">
+            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="color" v="255,255,255,255"/>
+            <prop k="joinstyle" v="miter"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,0"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.3"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="style" v="solid"/>
+            <effect enabled="1" type="effectStack">
+              <effect type="dropShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="1.25"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="outerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+              <effect type="drawSource">
+                <prop k="blend_mode" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="2"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+            </effect>
+          </layer>
+        </symbol>
+        <ComposerItem pagey="6.07805" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="89.777" y="6.07805" visibility="1" zValue="4" background="true" transparency="15" frameJoinStyle="miter" blendMode="0" width="76.7" outlineWidth="0.3" excludeFromExports="0" uuid="{0f29392a-73ac-44ff-93e3-e35b5c3c5b91}" height="56.808" itemRotation="0" frame="false" pagex="89.777">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerShape>
+      <ComposerShape shapeType="1" cornerRadius="1">
+        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+          <layer pass="0" class="SimpleFill" locked="0">
+            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="color" v="255,255,255,255"/>
+            <prop k="joinstyle" v="miter"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,0"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.3"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="style" v="solid"/>
+            <effect enabled="1" type="effectStack">
+              <effect type="dropShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="1.25"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="outerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+              <effect type="drawSource">
+                <prop k="blend_mode" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="2"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+            </effect>
+          </layer>
+        </symbol>
+        <ComposerItem pagey="85.3201" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="5.77679" y="85.3201" visibility="1" zValue="3" background="true" transparency="15" frameJoinStyle="miter" blendMode="0" width="76.7" outlineWidth="0.3" excludeFromExports="0" uuid="{3f81099a-da6d-4875-a022-3d8a0a56843e}" height="58.7" itemRotation="0" frame="false" pagex="5.77679">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerShape>
+      <ComposerShape shapeType="1" cornerRadius="1">
+        <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+          <layer pass="0" class="SimpleFill" locked="0">
+            <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="color" v="255,255,255,255"/>
+            <prop k="joinstyle" v="miter"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,0"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.3"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="style" v="solid"/>
+            <effect enabled="1" type="effectStack">
+              <effect type="dropShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="1.25"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="outerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="2"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+              <effect type="drawSource">
+                <prop k="blend_mode" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="1"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerShadow">
+                <prop k="blend_mode" v="13"/>
+                <prop k="blur_level" v="10"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="offset_angle" v="135"/>
+                <prop k="offset_distance" v="2"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0"/>
+              </effect>
+              <effect type="innerGlow">
+                <prop k="blend_mode" v="0"/>
+                <prop k="blur_level" v="3"/>
+                <prop k="color1" v="0,0,255,255"/>
+                <prop k="color2" v="0,255,0,255"/>
+                <prop k="color_type" v="0"/>
+                <prop k="discrete" v="0"/>
+                <prop k="draw_mode" v="2"/>
+                <prop k="enabled" v="0"/>
+                <prop k="single_color" v="255,255,255,255"/>
+                <prop k="spread" v="4"/>
+                <prop k="spread_unit" v="MM"/>
+                <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="transparency" v="0.5"/>
+              </effect>
+            </effect>
+          </layer>
+        </symbol>
+        <ComposerItem pagey="147.275" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="5.77679" y="147.275" visibility="1" zValue="2" background="true" transparency="15" frameJoinStyle="miter" blendMode="0" width="76.7" outlineWidth="0.3" excludeFromExports="0" uuid="{7b17b9e2-096b-4d38-b029-2a1912418d68}" height="57.4291" itemRotation="0" frame="false" pagex="5.77679">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -788,7 +1183,7 @@
           <Layer>ports20161112181022643</Layer>
           <Layer>hubs_20161112180938601</Layer>
           <Layer>ShopDistArea20161112180951729</Layer>
-          <Layer>istanbul_poly20161112181022641</Layer>
+          <Layer>istanbul_poly_copy_copy20161212182411540</Layer>
           <Layer>water20161112181022646</Layer>
         </LayerSet>
         <Grid/>
@@ -840,7 +1235,7 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="0" page="1" id="Istanbul" lastValidViewScaleFactor="5.66929" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{f55868ec-0d85-43b4-8eb0-1f02e9066cc4}" height="210" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="0" page="1" id="Istanbul" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{f55868ec-0d85-43b4-8eb0-1f02e9066cc4}" height="210" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -898,11 +1293,73 @@
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="57,57,57,102"/>
+              <prop k="outline_color" v="57,57,57,179"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
+              <effect enabled="1" type="effectStack">
+                <effect type="dropShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="outerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="single_color" v="195,243,255,255"/>
+                  <prop k="spread" v="2"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.243"/>
+                </effect>
+                <effect type="drawSource">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="single_color" v="195,243,255,255"/>
+                  <prop k="spread" v="6"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="1"/>
+                </effect>
+              </effect>
             </layer>
           </symbol>
         </symbols>
@@ -937,7 +1394,7 @@
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/drawLabels" value="false"/>
         <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fieldName" value="ShopDist"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value=".SF NS Text"/>
@@ -954,7 +1411,7 @@
         <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/isExpression" value="false"/>
         <property key="labeling/labelOffsetInMapUnits" value="true"/>
         <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/labelPerPart" value="false"/>
@@ -1076,12 +1533,12 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram">
+      <LinearlyInterpolatedDiagramRenderer upperValue="0" lowerHeight="0" upperHeight="50" lowerValue="0" diagramType="Histogram" upperWidth="50" classificationAttribute="0" lowerWidth="0">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="100000">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
           <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
-      </SingleCategoryDiagramRenderer>
+      </LinearlyInterpolatedDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <excludeAttributesWMS/>
@@ -1931,278 +2388,6 @@ def my_form_open(dialog, layer, feature):
       </conditionalstyles>
     </maplayer>
     <maplayer minimumScale="100000" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>istanbul_poly20161112181022641</id>
-      <datasource>./data/istanbul_poly.shp</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>istanbul_poly</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-          <srsid>3452</srsid>
-          <srid>4326</srid>
-          <authid>EPSG:4326</authid>
-          <description>WGS 84</description>
-          <projectionacronym>longlat</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>true</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="System">ogr</provider>
-      <previewExpression>COALESCE( "name", '&lt;NULL>' )</previewExpression>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="id">
-          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="osm_id">
-          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="name">
-          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="type">
-          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="admin_leve">
-          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="255,255,255,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="57,57,57,128"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="labeling" value="pal"/>
-        <property key="labeling/addDirectionSymbol" value="false"/>
-        <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="0"/>
-        <property key="labeling/bufferBlendMode" value="0"/>
-        <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="255"/>
-        <property key="labeling/bufferColorG" value="255"/>
-        <property key="labeling/bufferColorR" value="255"/>
-        <property key="labeling/bufferDraw" value="false"/>
-        <property key="labeling/bufferJoinStyle" value="64"/>
-        <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="1"/>
-        <property key="labeling/bufferSizeInMapUnits" value="false"/>
-        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/bufferTransp" value="0"/>
-        <property key="labeling/centroidInside" value="false"/>
-        <property key="labeling/centroidWhole" value="false"/>
-        <property key="labeling/decimals" value="3"/>
-        <property key="labeling/displayAll" value="false"/>
-        <property key="labeling/dist" value="0"/>
-        <property key="labeling/distInMapUnits" value="false"/>
-        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="false"/>
-        <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
-        <property key="labeling/fitInPolygonOnly" value="false"/>
-        <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value=".SF NS Text"/>
-        <property key="labeling/fontItalic" value="false"/>
-        <property key="labeling/fontLetterSpacing" value="0"/>
-        <property key="labeling/fontLimitPixelSize" value="false"/>
-        <property key="labeling/fontMaxPixelSize" value="10000"/>
-        <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="13"/>
-        <property key="labeling/fontSizeInMapUnits" value="false"/>
-        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/fontStrikeout" value="false"/>
-        <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
-        <property key="labeling/fontWordSpacing" value="0"/>
-        <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
-        <property key="labeling/labelOffsetInMapUnits" value="true"/>
-        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/labelPerPart" value="false"/>
-        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-        <property key="labeling/limitNumLabels" value="false"/>
-        <property key="labeling/maxCurvedCharAngleIn" value="20"/>
-        <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
-        <property key="labeling/maxNumLabels" value="2000"/>
-        <property key="labeling/mergeLines" value="false"/>
-        <property key="labeling/minFeatureSize" value="0"/>
-        <property key="labeling/multilineAlign" value="0"/>
-        <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value=""/>
-        <property key="labeling/obstacle" value="true"/>
-        <property key="labeling/obstacleFactor" value="1"/>
-        <property key="labeling/obstacleType" value="0"/>
-        <property key="labeling/offsetType" value="0"/>
-        <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="1"/>
-        <property key="labeling/placementFlags" value="10"/>
-        <property key="labeling/plussign" value="false"/>
-        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
-        <property key="labeling/preserveRotation" value="true"/>
-        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-        <property key="labeling/priority" value="5"/>
-        <property key="labeling/quadOffset" value="4"/>
-        <property key="labeling/repeatDistance" value="0"/>
-        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/repeatDistanceUnit" value="1"/>
-        <property key="labeling/reverseDirectionSymbol" value="false"/>
-        <property key="labeling/rightDirectionSymbol" value=">"/>
-        <property key="labeling/scaleMax" value="10000000"/>
-        <property key="labeling/scaleMin" value="1"/>
-        <property key="labeling/scaleVisibility" value="false"/>
-        <property key="labeling/shadowBlendMode" value="6"/>
-        <property key="labeling/shadowColorB" value="0"/>
-        <property key="labeling/shadowColorG" value="0"/>
-        <property key="labeling/shadowColorR" value="0"/>
-        <property key="labeling/shadowDraw" value="false"/>
-        <property key="labeling/shadowOffsetAngle" value="135"/>
-        <property key="labeling/shadowOffsetDist" value="1"/>
-        <property key="labeling/shadowOffsetGlobal" value="true"/>
-        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowOffsetUnits" value="1"/>
-        <property key="labeling/shadowRadius" value="1.5"/>
-        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowRadiusUnits" value="1"/>
-        <property key="labeling/shadowScale" value="100"/>
-        <property key="labeling/shadowTransparency" value="30"/>
-        <property key="labeling/shadowUnder" value="0"/>
-        <property key="labeling/shapeBlendMode" value="0"/>
-        <property key="labeling/shapeBorderColorA" value="255"/>
-        <property key="labeling/shapeBorderColorB" value="128"/>
-        <property key="labeling/shapeBorderColorG" value="128"/>
-        <property key="labeling/shapeBorderColorR" value="128"/>
-        <property key="labeling/shapeBorderWidth" value="0"/>
-        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeBorderWidthUnits" value="1"/>
-        <property key="labeling/shapeDraw" value="false"/>
-        <property key="labeling/shapeFillColorA" value="255"/>
-        <property key="labeling/shapeFillColorB" value="255"/>
-        <property key="labeling/shapeFillColorG" value="255"/>
-        <property key="labeling/shapeFillColorR" value="255"/>
-        <property key="labeling/shapeJoinStyle" value="64"/>
-        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeOffsetUnits" value="1"/>
-        <property key="labeling/shapeOffsetX" value="0"/>
-        <property key="labeling/shapeOffsetY" value="0"/>
-        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeRadiiUnits" value="1"/>
-        <property key="labeling/shapeRadiiX" value="0"/>
-        <property key="labeling/shapeRadiiY" value="0"/>
-        <property key="labeling/shapeRotation" value="0"/>
-        <property key="labeling/shapeRotationType" value="0"/>
-        <property key="labeling/shapeSVGFile" value=""/>
-        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeSizeType" value="0"/>
-        <property key="labeling/shapeSizeUnits" value="1"/>
-        <property key="labeling/shapeSizeX" value="0"/>
-        <property key="labeling/shapeSizeY" value="0"/>
-        <property key="labeling/shapeTransparency" value="0"/>
-        <property key="labeling/shapeType" value="0"/>
-        <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
-        <property key="labeling/textTransp" value="0"/>
-        <property key="labeling/upsidedownLabels" value="0"/>
-        <property key="labeling/wrapChar" value=""/>
-        <property key="labeling/xOffset" value="0"/>
-        <property key="labeling/yOffset" value="0"/>
-        <property key="labeling/zIndex" value="0"/>
-        <property key="variableNames" value="_fields_"/>
-        <property key="variableValues" value=""/>
-      </customproperties>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>name</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="100000">
-          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
-        </DiagramCategory>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions/>
-      <editform>.</editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
-"""
-QGIS forms can have a Python function that is called when the form is
-opened.
-
-Use this function to add extra logic to your forms.
-
-Enter the name of the function in the "Python Init function"
-field.
-An example follows:
-"""
-from qgis.PyQt.QtWidgets import QWidget
-
-def my_form_open(dialog, layer, feature):
-	geom = feature.geometry()
-	control = dialog.findChild(QWidget, "MyLineEdit")
-]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-    </maplayer>
-    <maplayer minimumScale="100000" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>istanbul_poly_copy20161112184330328</id>
       <datasource>./data/istanbul_poly.shp</datasource>
       <keywordList>
@@ -2460,6 +2645,668 @@ field.
 An example follows:
 """
 from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+    </maplayer>
+    <maplayer minimumScale="100000" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>istanbul_poly_copy_copy20161212182411540</id>
+      <datasource>./data/istanbul_poly.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>istanbul_poly copy copy</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="osm_id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="name">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="type">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="admin_leve">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,255,255,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="57,57,57,128"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <effect enabled="1" type="effectStack">
+                <effect type="dropShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="outerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="6"/>
+                  <prop k="color1" v="247,251,255,255"/>
+                  <prop k="color2" v="34,80,107,255"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="single_color" v="166,224,255,255"/>
+                  <prop k="spread" v="4.3"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="stops" v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255"/>
+                  <prop k="transparency" v="0.15"/>
+                </effect>
+                <effect type="drawSource">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="0"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="1"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.196"/>
+                </effect>
+              </effect>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="64"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value=".SF NS Text"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="20"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="0"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value=""/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames" value="_fields_"/>
+        <property key="variableValues" value=""/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>name</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".SF NS Text"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <LinearlyInterpolatedDiagramRenderer upperValue="0" lowerHeight="0" upperHeight="50" lowerValue="0" diagramType="Histogram" upperWidth="50" classificationAttributeExpression="" lowerWidth="0">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="100000">
+          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+      </LinearlyInterpolatedDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>istanbul_turkey_osm_buildings20161212175949413</id>
+      <datasource>../../../../../../Downloads/istanbul_turkey.imposm-shapefiles/istanbul_turkey_osm_buildings.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>istanbul_turkey_osm_buildings</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="osm_id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="name">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="type">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="240,240,240,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="191,191,191,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <effect enabled="0" type="effectStack">
+                <effect type="dropShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="outerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="2"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.5"/>
+                </effect>
+                <effect type="drawSource">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerShadow">
+                  <prop k="blend_mode" v="21"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="255,255,255,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="93"/>
+                  <prop k="offset_distance" v="35"/>
+                  <prop k="offset_unit" v="Pixel"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="247,252,245,255"/>
+                  <prop k="color2" v="0,68,27,255"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="4"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="stops" v="0.13;229,245,224,255:0.26;199,233,192,255:0.39;161,217,155,255:0.52;116,196,118,255:0.65;65,171,93,255:0.78;35,139,69,255:0.9;0,109,44,255"/>
+                  <prop k="transparency" v="1"/>
+                </effect>
+              </effect>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="64"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value=".SF NS Text"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="20"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="0"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value=""/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames" value="_fields_"/>
+        <property key="variableValues" value=""/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>name</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".SF NS Text"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Pie">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="0">
+          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from PyQt4.QtGui import QWidget
 
 def my_form_open(dialog, layer, feature):
 	geom = feature.geometry()
@@ -2811,6 +3658,65 @@ def my_form_open(dialog, layer, feature):
               <prop k="offset_unit" v="MM"/>
               <prop k="use_custom_dash" v="0"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <effect enabled="1" type="effectStack">
+                <effect type="dropShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="outerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="250,250,250,255"/>
+                  <prop k="color2" v="5,5,5,255"/>
+                  <prop k="color_type" v="1"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="0.05"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.682"/>
+                </effect>
+                <effect type="drawSource">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="2"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.5"/>
+                </effect>
+              </effect>
             </layer>
           </symbol>
           <symbol alpha="0.694118" clip_to_extent="1" type="line" name="1">
@@ -2830,6 +3736,65 @@ def my_form_open(dialog, layer, feature):
               <prop k="offset_unit" v="MM"/>
               <prop k="use_custom_dash" v="0"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <effect enabled="0" type="effectStack">
+                <effect type="dropShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="outerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="250,250,250,255"/>
+                  <prop k="color2" v="5,5,5,255"/>
+                  <prop k="color_type" v="1"/>
+                  <prop k="discrete" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="0.05"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.5"/>
+                </effect>
+                <effect type="drawSource">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="2"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.5"/>
+                </effect>
+              </effect>
             </layer>
           </symbol>
         </symbols>
@@ -3105,9 +4070,9 @@ def my_form_open(dialog, layer, feature):
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="40,40,40,255"/>
+              <prop k="line_color" v="47,47,47,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.2"/>
+              <prop k="line_width" v="0.4"/>
               <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3124,15 +4089,71 @@ def my_form_open(dialog, layer, feature):
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="145,145,145,77"/>
+              <prop k="line_color" v="80,80,80,102"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.15"/>
+              <prop k="line_width" v="0"/>
               <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
               <prop k="use_custom_dash" v="0"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <effect enabled="1" type="effectStack">
+                <effect type="dropShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="outerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="3"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="single_color" v="241,241,241,255"/>
+                  <prop k="spread" v="0.4"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="drawSource">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="1"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerShadow">
+                  <prop k="blend_mode" v="13"/>
+                  <prop k="blur_level" v="10"/>
+                  <prop k="color" v="0,0,0,255"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="offset_angle" v="135"/>
+                  <prop k="offset_distance" v="2"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="offset_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0"/>
+                </effect>
+                <effect type="innerGlow">
+                  <prop k="blend_mode" v="0"/>
+                  <prop k="blur_level" v="1"/>
+                  <prop k="color_type" v="0"/>
+                  <prop k="draw_mode" v="2"/>
+                  <prop k="enabled" v="0"/>
+                  <prop k="single_color" v="255,255,255,255"/>
+                  <prop k="spread" v="0"/>
+                  <prop k="spread_unit" v="MM"/>
+                  <prop k="spread_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="transparency" v="0.5"/>
+                </effect>
+              </effect>
             </layer>
           </symbol>
         </symbols>
@@ -3381,7 +4402,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="224,224,224,255"/>
+              <prop k="color" v="255,255,255,63"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3425,7 +4446,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/drawLabels" value="false"/>
         <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fieldName" value="hubs"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value=".SF NS Text"/>
@@ -3442,7 +4463,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/isExpression" value="false"/>
         <property key="labeling/labelOffsetInMapUnits" value="true"/>
         <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/labelPerPart" value="false"/>
@@ -3564,12 +4585,12 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram">
+      <LinearlyInterpolatedDiagramRenderer upperValue="0" lowerHeight="0" upperHeight="50" lowerValue="0" diagramType="Histogram" upperWidth="50" classificationAttribute="0" lowerWidth="0">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="100000">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
           <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
-      </SingleCategoryDiagramRenderer>
+      </LinearlyInterpolatedDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <excludeAttributesWMS/>
@@ -3892,17 +4913,19 @@ def my_form_open(dialog, layer, feature):
       <LayerSnappingList type="QStringList">
         <value>ShopDistArea20161112180951729</value>
         <value>ShopDistStores20161112181022645</value>
+        <value>hideroads20161112184109388</value>
         <value>hubs_20161112180938601</value>
-        <value>istanbul_poly20161112181022641</value>
+        <value>istanbul_poly_copy20161112184330328</value>
+        <value>istanbul_turkey_osm_buildings20161212175949413</value>
         <value>ports20161112181022643</value>
         <value>roads20161112181022547</value>
-        <value>water20161112181022646</value>
-        <value>hideroads20161112184109388</value>
         <value>roads_copy20161112184327179</value>
-        <value>istanbul_poly_copy20161112184330328</value>
+        <value>water20161112181022646</value>
         <value>water_copy20161112184330952</value>
+        <value>istanbul_poly_copy_copy20161212182411540</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
@@ -3929,8 +4952,10 @@ def my_form_open(dialog, layer, feature):
         <value>2</value>
         <value>2</value>
         <value>2</value>
+        <value>2</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
@@ -3946,6 +4971,7 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
